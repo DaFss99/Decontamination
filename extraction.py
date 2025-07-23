@@ -5,18 +5,18 @@ import re
 
 # --- ARGUMENT PARSING ---
 parser = argparse.ArgumentParser(description="Extract sequences with no BLAST hits.")
-parser.add_argument("-b", "--blast", required=True, help="Path to BLASTP output file")
-parser.add_argument("-p", "--prot", required=True, help="Path to protein multifasta file")
-parser.add_argument("-o", "--out", default="noHitsSeq.faa", help="Output fasta file")
-parser.add_argument("-l", "--log", default="counting.txt", help="Log output file")
+parser.add_argument("-b", "--blast", required=True, help="Path to BLASTP output file (e.g.:path/to/my_blast.txt)")
+parser.add_argument("-p", "--prot", required=True, help="Path to protein multifasta file (e.g.: path/to/my_file.fasta)")
+parser.add_argument("-o", "--out", default="noHitsSeq.faa", help="Name tag for output files (e.g.: strain_name, strain_code, test_id)")
 
 args = parser.parse_args()
 
 # --- FILE PATHS ---
 blastp_file = Path(args.blast)
 fasta_file = Path(args.prot)
-output_file = Path(args.out)
-log_file = Path(args.log)
+output_file = Path(args.out).with_name(Path(args.out).stem + "_nohits.faa")
+log_file = Path(args.out).with_name(Path(args.out).stem + ".log")
+out_name = Path(args.out)
 
 checkAll = 0
 checkZero = 0
@@ -43,7 +43,8 @@ with output_file.open("w") as out_fasta:
             SeqIO.write(record, out_fasta, "fasta")
 
 # --- STEP 3: Write log ---
-log_text = f"{'Total number of queries: '} {checkAll}\n\
+log_text = f"{"Command line: "} {"extraction.py -b"} {blastp_file} {"-p"} {fasta_file} {"-o"} {out_name}\n\
+{'Total number of queries: '} {checkAll}\n\
 {'Number of queries with some hit: '} {checkHit}\n\
 {'Number of queries with zero hits'} {checkZero}\n"
 counting = "counting.txt"

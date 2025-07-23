@@ -1,0 +1,4 @@
+Command line:  extraction.py -b teste\blastTest.txt -p teste\braker.aa -o testeDOIS
+Total number of queries:  8440
+Number of queries with some hit:  7742
+Number of queries with zero hits 698
