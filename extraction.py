@@ -1,10 +1,22 @@
 from pathlib import Path
 from Bio import SeqIO
+import argparse
+import re
+
+# --- ARGUMENT PARSING ---
+parser = argparse.ArgumentParser(description="Extract sequences with no BLAST hits.")
+parser.add_argument("-b", "--blast", required=True, help="Path to BLASTP output file")
+parser.add_argument("-p", "--prot", required=True, help="Path to protein multifasta file")
+parser.add_argument("-o", "--out", default="noHitsSeq.faa", help="Output fasta file")
+parser.add_argument("-l", "--log", default="counting.txt", help="Log output file")
+
+args = parser.parse_args()
 
 # --- FILE PATHS ---
-blastp_file = Path("blastTest.txt")
-fasta_file = Path("braker.aa")
-output_file = Path("noHitsSeq.faa")
+blastp_file = Path(args.blast)
+fasta_file = Path(args.prot)
+output_file = Path(args.out)
+log_file = Path(args.log)
 
 checkAll = 0
 checkZero = 0
@@ -24,22 +36,21 @@ with blastp_file.open() as blast:
 
     checkHit = checkAll - checkZero
 
-
 # --- STEP 2: Extract matching sequences from FASTA ---
 with output_file.open("w") as out_fasta:
     for record in SeqIO.parse(fasta_file, "fasta"):
         if record.id in no_hit_ids:
             SeqIO.write(record, out_fasta, "fasta")
 
-print(f"✔ Done! Extracted {len(no_hit_ids)} sequences to '{output_file.name}'")
-
-print(checkAll, checkHit, checkZero)
-
-# --- STEP 3: Counting the queries ---
-counts = f"{'Total number of queries: '} {checkAll}\n\
+# --- STEP 3: Write log ---
+log_text = f"{'Total number of queries: '} {checkAll}\n\
 {'Number of queries with some hit: '} {checkHit}\n\
 {'Number of queries with zero hits'} {checkZero}\n"
 counting = "counting.txt"
 
-with open(counting, "w") as file:
-    file.write(counts)
+with open(log_file, "w") as file:
+    file.write(log_text)
+
+
+print(f"Done! Extracted {len(no_hit_ids)} sequences to '{output_file.name}'")
+print(f"Log written to '{log_file.name}'")
