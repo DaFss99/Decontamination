@@ -43,11 +43,11 @@ with output_file.open("w") as out_fasta:
             SeqIO.write(record, out_fasta, "fasta")
 
 # --- STEP 3: Write log ---
-log_text = f"{"Command line: "} {"extraction.py -b"} {blastp_file} {"-p"} {fasta_file} {"-o"} {out_name}\n\
+log_text = f"{'Command line: '} {'extraction.py -b'} {blastp_file} {'-p'} {fasta_file} {'-o'} {out_name}\n\
 {'Total number of queries: '} {checkAll}\n\
 {'Number of queries with some hit: '} {checkHit}\n\
 {'Number of queries with zero hits'} {checkZero}\n"
-counting = "counting.txt"
+
 
 with open(log_file, "w") as file:
     file.write(log_text)
