@@ -34,3 +34,12 @@ with output_file.open("w") as out_fasta:
 print(f"✔ Done! Extracted {len(no_hit_ids)} sequences to '{output_file.name}'")
 
 print(checkAll, checkHit, checkZero)
+
+# --- STEP 3: Counting the queries ---
+counts = f"{'Total number of queries: '} {checkAll}\n\
+{'Number of queries with some hit: '} {checkHit}\n\
+{'Number of queries with zero hits'} {checkZero}\n"
+counting = "counting.txt"
+
+with open(counting, "w") as file:
+    file.write(counts)
