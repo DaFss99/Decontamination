@@ -1,0 +1,82 @@
+query,KO,KEGG_taxon,KEGG_score,SwissProt_subject,SwissProt_taxon,bitscore,evalue
+g2723.t1,K17773,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C106640CA,92.4337,sp|P80967|TOM5_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),45.4,1.27e-07
+g7313.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,437.187,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),240.0,2.52e-70
+g2975.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,1365.52,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),965.0,0.0
+g100.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,260.381,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),184.0,6.99e-52
+g7144.t1,K18278,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_CR09290WA,603.594,sp|C4YMW2|THI5_CANAW,Candida albicans (strain WO-1),617.0,0.0
+g744.t1,K10742,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C600320CA,207.608,sp|P38859|DNA2_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),84.0,5.29e-18
+g1484.t1,K20028,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C306990WA,110.538,sp|Q5ADN9|PFA3_CANAL,Candida albicans (strain SC5314 / ATCC MYA-2876),105.0,1.34e-27
+g5241.t1,K12619,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C401080WA,139.813,sp|Q6BNU7|XRN2_DEBHA,Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968),152.0,2.94e-43
+g4345.t1,K15140,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C101280CA,134.806,sp|Q5A917|MED22_CANAL,Candida albicans (strain SC5314 / ATCC MYA-2876),134.0,9.84e-41
+g344.t2,K20632,Animals | Amphibians | Anura | xtr:100490096,28.4906,sp|Q06852|SLAP1_ACET2,Acetivibrio thermocellus (strain ATCC 27405 / DSM 1237 / JCM 9322 / NBRC 103400 / NCIMB 10682 / NRRL B-4536 / VPI 7372),90.9,5.33e-17
+g2474.t1,K15255,Fungi | Ascomycetes | Eurotiomycetes | afm:AFUA_5G13370,59.3066,sp|Q5AXT5|PIF1_EMENI,Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139),57.8,2.25e-08
+g2766.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,117.472,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),98.2,4.57e-24
+g3692.t1,K06695,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C406150CA,139.428,sp|P53187|HOP2_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),58.9,1.77e-09
+g2298.t2,K02269,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C205930WA,97.0561,sp|Q6BPV1|COX9_DEBHA,Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968),92.0,1.04e-25
+g5840.t1,K28103,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400820WA,56.225,sp|Q03829|MME1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),46.2,6.60e-07
+g4525.t1,K03844,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C602270CA,166.392,sp|Q59S72|ALG11_CANAL,Candida albicans (strain SC5314 / ATCC MYA-2876),178.0,6.30e-53
+g1158.t1,K07512,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C300200CA,50.8322,sp|Q8WZM4|ETR2_CANTR,Candida tropicalis,50.8,9.48e-09
+g1613.t1,K14715,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C300390WA,199.134,sp|Q640S1|S39A9_XENTR,Xenopus tropicalis,119.0,1.31e-30
+g5001.t1,K03508,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C209480WA,189.504,sp|Q0E7J8|REV7_SCHPO,Schizosaccharomyces pombe (strain 972 / ATCC 24843),50.8,1.68e-06
+g1871.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,179.489,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),155.0,4.81e-44
+g4549.t1,K19791,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C600460CA,55.0694,sp|P78591|FET3_CANAX,Candida albicans,57.0,1.58e-10
+g7446.t1,K18748,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C504730CA,187.578,sp|Q5AK62|SSD1_CANAL,Candida albicans (strain SC5314 / ATCC MYA-2876),236.0,1.93e-69
+g2508.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,456.447,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),251.0,1.09e-70
+g3731.t1,K10742,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C600320CA,880.167,sp|P38859|DNA2_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),309.0,1.39e-87
+g3272.t1,K15278,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C209700WA,340.502,sp|P40004|YEA4_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),213.0,8.23e-66
+g4652.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,135.191,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),109.0,1.98e-28
+g1613.t2,K14715,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C300390WA,205.297,sp|Q640S1|S39A9_XENTR,Xenopus tropicalis,122.0,1.15e-31
+g5268.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,161.77,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),145.0,6.39e-41
+g8041.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,418.313,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),364.0,1.75e-114
+g4649.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,136.732,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),110.0,8.41e-29
+g5464.t1,K11885,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C114420WA,427.172,sp|Q6BK42|DDI1_DEBHA,Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968),320.0,1.11e-105
+g812.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,197.208,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),127.0,3.09e-33
+g58.t1,K08836,Animals | Birds | Galliformes | gga:423878,54.299,sp|Q9Y7S2|YQO3_SCHPO,Schizosaccharomyces pombe (strain 972 / ATCC 24843),48.9,1.83e-06
+g2437.t1,K11676,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C208720WA,182.956,sp|P40154|IES2_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),55.1,3.63e-07
+g5046.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,136.732,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),110.0,8.41e-29
+g4116.t1,K01918,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_CR02580WA,472.626,sp|P40459|PANC_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),276.0,3.63e-91
+g3911.t1,K10992,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_CR05580CA,148.288,sp|P32489|MEI5_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),52.0,2.88e-07
+g7660.t1,K15255,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_CR00060CA,134.035,sp|P38766|RRM3_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),113.0,6.42e-29
+g1515.t1,K13181,Fungi | Ascomycetes | Saccharomycetes | kla:KLLA0_F15752g,60.8474,sp|Q6BTL5|DRS1_DEBHA,Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968),73.2,5.13e-15
+g4419.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,114.775,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),95.1,2.33e-23
+g2678.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,2065.04,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),1707.0,0.0
+g5036.t1,K12619,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C401080WA,139.813,sp|Q6BNU7|XRN2_DEBHA,Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968),152.0,2.94e-43
+g2289.t1,K03317,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C206020WA,903.279,sp|Q9UA35|S28A3_EPTST,Eptatretus stoutii,266.0,8.27e-79
+g7878.t1,K17440,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C702120CA,133.65,sp|P32388|RM49_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),57.4,4.23e-10
+g3214.t1,K10742,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C600320CA,99.7525,sp|A0A1P8ASY1|JHS1_ARATH,Arabidopsis thaliana,72.8,1.96e-15
+g6341.t1,K23887,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C406530CA,889.026,sp|Q07307|UAPA_EMENI,Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139),639.0,0.0
+g4830.t1,K17974,Fungi | Ascomycetes | Saccharomycetes | kla:KLLA0_E06029g,73.1738,sp|P47135|JSN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),79.0,1.34e-17
+g6591.t1,K00419,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C402890CA,79.3369,sp|A0A1D8PLP3|QCR9_CANAL,Candida albicans (strain SC5314 / ATCC MYA-2876),85.5,6.08e-23
+g6812.t1,K01455,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C302060WA,743.421,sp|Q9URY7|FMDA_SCHPO,Schizosaccharomyces pombe (strain 972 / ATCC 24843),602.0,0.0
+g4887.t1,K14559,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C200070CA,627.091,sp|P47083|MPP10_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),330.0,4.22e-104
+g7538.t1,K03457,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C303140CA,955.281,sp|Q04895|DAL4_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),548.0,0.0
+g6390.t1,K10881,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C406880CA,70.8626,sp|O94742|SEM1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),51.2,8.51e-09
+g813.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,196.823,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),125.0,1.01e-32
+g7037.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,288.115,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),181.0,9.95e-50
+g628.t1,K12763,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_CR07890WA,274.248,sp|Q59X67|EFG1_CANAL,Candida albicans (strain SC5314 / ATCC MYA-2876),295.0,1.64e-91
+g2301.t1,K25662,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C205900WA,188.348,sp|Q06032|CST9_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),63.2,7.95e-10
+g4800.t1,K04567,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C701870WA,87.8113,sp|O74858|SYKM_SCHPO,Schizosaccharomyces pombe (strain 972 / ATCC 24843),46.2,4.19e-06
+g4300.t1,K10742,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C600320CA,135.191,sp|P38859|DNA2_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),47.8,9.78e-07
+g6569.t1,K13181,Fungi | Ascomycetes | Saccharomycetes | kla:KLLA0_F15752g,64.6994,sp|Q6BTL5|DRS1_DEBHA,Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968),74.3,4.19e-16
+g8100.t1,K03325,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C406890WA,163.696,sp|Q06598|ARR3_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),110.0,8.15e-29
+g7735.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,258.84,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),187.0,2.84e-52
+g6272.t1,K13113,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C405040WA,135.576,sp|Q6BUP7|HUB1_DEBHA,Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968),130.0,8.03e-41
+g3969.t1,K11568,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_CR06160CA,79.3369,sp|Q59VC6|DAD3_CANAL,Candida albicans (strain SC5314 / ATCC MYA-2876),72.8,4.70e-16
+g2206.t1,K11099,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C203880CA,112.079,sp|O74966|RUXG_SCHPO,Schizosaccharomyces pombe (strain 972 / ATCC 24843),95.1,1.53e-26
+g8134.t1,K11126,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C108130CA,575.859,sp|Q06163|TERT_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),179.0,1.92e-45
+g2298.t1,K02269,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C205930WA,83.5741,sp|Q6BPV1|COX9_DEBHA,Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968),80.5,4.01e-21
+g3251.t1,K21053,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C206970WA,580.096,sp|Q59ZB1|ADE_CANAL,Candida albicans (strain SC5314 / ATCC MYA-2876),583.0,0.0
+g1814.t1,K05356,Plants | Eudicots | Rutaceae | cit:102612772,28.1054,sp|Q5ADX2|HIR3_CANAL,Candida albicans (strain SC5314 / ATCC MYA-2876),69.7,3.33e-14
+g1300.t1,K10742,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C600320CA,194.126,sp|D3ZG52|DNA2_RAT,Rattus norvegicus,75.1,1.76e-15
+g1674.t1,K03844,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C602270CA,165.622,sp|Q59S72|ALG11_CANAL,Candida albicans (strain SC5314 / ATCC MYA-2876),172.0,9.57e-51
+g2671.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,143.665,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),102.0,2.21e-25
+g7682.t1,K07070,Bacteria | Enterobacteria | Erwinia | eam:EAMY_3399,27.7202,sp|Q5AC37|PRP45_CANAL,Candida albicans (strain SC5314 / ATCC MYA-2876),59.3,2.37e-11
+g2475.t1,K15255,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_CR00060CA,67.781,sp|Q5AXT5|PIF1_EMENI,Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139),57.8,8.02e-09
+g67.t1,K19850,Fungi | Ascomycetes | Eurotiomycetes | afm:AFUA_3G14410,21.1718,sp|A3LUT0|NOP58_PICST,Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545),47.0,3.73e-06
+g768.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,167.548,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),137.0,1.13e-36
+g6511.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,568.155,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),487.0,8.18e-155
+g99.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,259.61,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),180.0,9.19e-51
+g1127.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,132.88,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),65.5,6.04e-12
+g5271.t1,K28103,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400820WA,56.225,sp|Q03829|MME1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),46.2,6.60e-07
+g1301.t1,K26977,Viruses | Viruses | vg | vg:14181547,34.2686,sp|A5E4Z8|KAR5_LODEL,Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239),96.3,4.99e-21
+g5857.t1,K14572,Fungi | Ascomycetes | Pichiomycetes | cal:CAALFM_C400970CA,149.058,sp|Q12019|MDN1_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),129.0,1.68e-35

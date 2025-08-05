@@ -8,30 +8,42 @@ import csv
 parser = argparse.ArgumentParser(description="Compare KEGG and SwissProt annotations and separate hits.")
 parser.add_argument("-b", "--blast", required=True, help="Path to BLASTP output file (outfmt 7)")
 parser.add_argument("-k", "--kegg", required=True, help="Path to KEGG .top result file")
+parser.add_argument("-ks", "--kegg_score", required=True, help="Chosed filtering kegg score.")
 parser.add_argument("-f", "--fasta", required=True, help="Path to original multifasta file (from BRAKER3)")
 parser.add_argument("-o", "--out", default="strain", help="Output name prefix")
 args = parser.parse_args()
 
 # --- FILE PATHS ---
+log_file = Path(args.out).with_name(Path(args.out).stem + ".log")
 blastp_file = Path(args.blast)
 kegg_file = Path(args.kegg)
+kegg_filter = float(args.kegg_score)
 fasta_file = Path(args.fasta)
 prefix = Path(args.out).stem
+
+# --- CHECKING VARIABLES ---
+check_kegg = 0
+check_blast = 0
+check_intersec = 0
+check_onlykegg = 0
+check_onlyblast = 0
+check_prot = 0
+check_noHits = 0
 
 # --- STEP 1: Parse KEGG ---
 kegg_hits = {}
 with kegg_file.open() as f:
     for line in f:
+        check_kegg += 1     # for log file
         parts = line.strip().split('\t')
-        if len(parts) < 7:
-            continue
-        query = parts[0].replace("user:", "")
-        ko = parts[1]
+        query = parts[0].replace("user:", "").strip()
+        ko = parts[1].strip() if len(parts) > 1 else ""
         taxon = parts[2:6]
-        score = float(parts[6])
-        if ko and score >= 50:
+        score = float(parts[6]) if len(parts) > 6 else 0.0
+
+        if score >= kegg_filter:
             kegg_hits[query] = {
-                "ko": ko,
+                "ko": ko if ko else "None",
                 "taxon": " | ".join(taxon),
                 "score": score
             }
@@ -43,6 +55,7 @@ with blastp_file.open() as f:
     for line in f:
         line = line.strip()
         if line.startswith("# Query:"):
+            check_blast += 1     # for log file
             current_query = line.split()[-1]
         elif line.startswith("#") or not line:
             continue
@@ -68,6 +81,10 @@ intersection = queries_kegg & queries_blast
 only_kegg = queries_kegg - intersection
 only_blast = queries_blast - intersection
 
+check_intersec = len(intersection)   # for log file
+check_onlyblast = len(only_blast)
+check_onlykegg = len(only_kegg)
+
 # All queries from the fasta
 all_queries = set(rec.id for rec in SeqIO.parse(fasta_file, "fasta"))
 no_hits = all_queries - (queries_kegg | queries_blast)
@@ -88,9 +105,13 @@ def write_fasta(file_path, ids):
 
 # --- STEP 5: Write KEGG Hits ---
 kegg_csv = f"{prefix}_kegg.csv"
+kegg_all = f"{prefix}_filtered_kegg.csv"
 kegg_faa = f"{prefix}_kegg.faa"
 write_csv(kegg_csv, ["query", "KO", "taxon", "score"], [
     [qid, kegg_hits[qid]["ko"], kegg_hits[qid]["taxon"], kegg_hits[qid]["score"]] for qid in only_kegg
+])
+write_csv(kegg_all, ["query", "KO", "taxon", "score"], [
+    [qid, kegg_hits[qid]["ko"], kegg_hits[qid]["taxon"], kegg_hits[qid]["score"]] for qid in queries_kegg
 ])
 write_fasta(kegg_faa, only_kegg)
 
@@ -125,5 +146,18 @@ nohit_faa = f"{prefix}_nohits.faa"
 with open(nohit_txt, "w") as f:
     f.write("\n".join(sorted(no_hits)))
 write_fasta(nohit_faa, no_hits)
+
+# --- STEP 9 = Write log file ---
+log_text = f"{'Command line: '} {'blastp-kegg_intersec.py'} {"--blast"} \
+{blastp_file} {'--kegg'} {kegg_file} {'--fasta'} {fasta_file} \
+{'--out'} {prefix}\n\
+{'Total number of KEGG queries: '} {check_kegg}\n\
+{'Total number of SwissPro queries: '} {check_blast}\n\
+{'Total number of shared queries: '} {check_intersec}\n\
+{'Total number of queries only in KEGG: '} {check_onlykegg}\n\
+{'Total number of queries only in SwissPro: '} {check_onlyblast}\n"
+with open(log_file, "w") as file:
+    file.write(log_text)
+
 
 print("All files written! :D")
