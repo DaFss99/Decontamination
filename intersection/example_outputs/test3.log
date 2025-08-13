@@ -1,6 +1,0 @@
-Command line:  blastp-kegg_intersec.py --blast ..\teste\y2822_sprot_blastp_final_test.txt --kegg ..\teste\y2822_ghostKOALA_test.top --fasta ..\teste\braker.aa --out test3
-Total number of KEGG queries:  696
-Total number of SwissPro queries:  698
-Total number of shared queries:  132
-Total number of queries only in KEGG:  162
-Total number of queries only in SwissPro:  19

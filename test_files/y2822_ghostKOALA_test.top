@@ -1,0 +1,696 @@
+user:g1986.t1	K27698	Animals	Amphibians	Anura	xtr:100145560	43.1282
+user:g2013.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C203440WA	37.7354
+user:g2044.t1	K02847	Bacteria	Enterobacteria	Escherichia	ecs:ECs_4500	29.6462
+user:g2072.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C202750CA	85.8853
+user:g2079.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C202910WA	39.2762
+user:g2092.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C202260WA	184.882
+user:g2102.t1	K09321	Animals	Amphibians	Anura	xla:108704651	27.7202
+user:g2104.t1	K00615	Animals	Insects	Diptera	aga:1270768	25.409
+user:g2139.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C202220CA	88.1965
+user:g2146.t1		Fungi	Ascomycetes	Sordariomycetes	fgr:FGSG_07687	33.113
+user:g2174.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C201760CA	83.9593
+user:g2206.t1	K11099	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C203880CA	112.079
+user:g2225.t1		Fungi	Ascomycetes	Eurotiomycetes	ani:ANIA_04362	30.0314
+user:g2236.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C205180WA	91.2781
+user:g2236.t2		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C205180WA	97.0561
+user:g2241.t1		Viruses	Viruses	vg	vg:16836168	29.261
+user:g2265.t1		Bacteria	Actinomycetota	Amycolatopsis	amd:AMED_7034	32.7278
+user:g2267.t1		Plants	Eudicots	Cucurbitaceae	csv:101205639	26.9498
+user:g2271.t1	K19029	Animals	Insects	Diptera	aga:1280661	30.4166
+user:g2271.t2	K02199	Bacteria	Betaproteobacteria	Cupriavidus	reh:PHG219	24.2534
+user:g2289.t1	K03317	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C206020WA	903.279
+user:g2298.t1	K02269	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C205930WA	83.5741
+user:g2298.t2	K02269	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C205930WA	97.0561
+user:g2301.t1	K25662	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C205900WA	188.348
+user:g2303.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C205870WA	74.3294
+user:g2329.t1	K08330	Fungi	Ascomycetes	Sordariomycetes	ncr:NCU09998	32.3426
+user:g2428.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C208060WA	125.561
+user:g2437.t1	K11676	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C208720WA	182.956
+user:g3826.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C604300WA	97.0561
+user:g3830.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR05960WA	95.1301
+user:g3863.t1	K11841	Fungi	Ascomycetes	Eurotiomycetes	aor:AO090012000968	38.5058
+user:g3873.t1		Viruses	Viruses	vg	vg:65101495	26.9498
+user:g3878.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR04840CA	108.612
+user:g3891.t1		Protists	Stramenopiles	Bacillariophyta	pti:PHATRDRAFT_23497	29.261
+user:g3898.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR04610CA	633.254
+user:g3911.t1	K10992	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR05580CA	148.288
+user:g3941.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR05760CA	363.229
+user:g3959.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C104940CA	36.5798
+user:g3960.t1		Viruses	Viruses	vg	vg:940403	35.8094
+user:g3969.t1	K11568	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR06160CA	79.3369
+user:g3971.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR06140WA	339.347
+user:g3997.t1	K22836	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C505390CA	28.4906
+user:g4080.t1	K02063	Bacteria	other Gammaproteobacteria	Actinobacillus	apl:APL_1321	25.0238
+user:g4081.t1	K07603	Animals	Amphibians	Anura	xla:108697407	31.5722
+user:g4100.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR02750CA	32.3426
+user:g4114.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR02600WA	131.724
+user:g4116.t1	K01918	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR02580WA	472.626
+user:g4120.t1		Protists	Stramenopiles	Bacillariophyta	pti:PHATRDRAFT_8239	29.261
+user:g4123.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR02930WA	205.297
+user:g5464.t1	K11885	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C114420WA	427.172
+user:g5531.t1		Protists	Stramenopiles	Bacillariophyta	tps:THAPSDRAFT_9941	29.6462
+user:g5540.t1		Animals	Mammals	Rodentia	rno:501795	41.5874
+user:g5715.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C109930WA	46.2098
+user:g6250.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C405380CA	85.1149
+user:g6272.t1	K13113	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C405040WA	135.576
+user:g6288.t1		Bacteria	Enterobacteria	Serratia	smar:SM39_1611	34.6538
+user:g6297.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C404220WA	81.2629
+user:g6322.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C406260WA	170.244
+user:g6341.t1	K23887	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C406530CA	889.026
+user:g6390.t1	K10881	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C406880CA	70.8626
+user:g6419.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C406980WA	363.229
+user:g6716.t1	K06184	Plants	Eudicots	Euphorbiaceae	rcu:8271340	29.6462
+user:g6738.t1	K11647	Plants	Eudicots	Cucurbitaceae	csv:101221426	30.4166
+user:g6745.t1		Bacteria	Enterobacteria	Serratia	smar:SM39_3885	32.7278
+user:g6746.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C302870CA	689.493
+user:g6752.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C302550CA	199.134
+user:g6758.t1	K22243	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C302580CA	116.316
+user:g6762.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C302640CA	442.58
+user:g6785.t1		Animals	Insects	Diptera	aga:1269451	30.8018
+user:g6791.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C302300WA	66.6254
+user:g6812.t1	K01455	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C302060WA	743.421
+user:g6828.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR09560CA	366.696
+user:g6858.t1	K11498	Animals	Insects	Diptera	aag:5578606	43.1282
+user:g7124.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR09070CA	279.641
+user:g7125.t1	K06507	Animals	Fishes	Cypriniformes	dre:100329481	29.6462
+user:g7125.t2	K06507	Animals	Fishes	Cypriniformes	dre:100329481	29.6462
+user:g7126.t1	K04614	Animals	Mammals	Lagomorpha	ocu:100311036	28.4906
+user:g7130.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR09140CA	634.409
+user:g7144.t1	K18278	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR09290WA	603.594
+user:g7147.t1	K03042	Archaea	Thermoproteota	Sulfolobus	sai:Saci_0691	28.4906
+user:g7156.t2	K07232	Animals	Mammals	Artiodactyla	ssc:100524723	34.2686
+user:g7168.t1		Viruses	Viruses	vg	vg:80558107	29.261
+user:g7181.t1	K07090	Bacteria	other Gammaproteobacteria	Acinetobacter	acb:A1S_1782	30.8018
+user:g7190.t1	K03700	Bacteria	Bacilli	Staphylococcus	ser:SERP1019	30.8018
+user:g7190.t2	K07232	Animals	Mammals	Artiodactyla	ssc:100524723	35.8094
+user:g7194.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR09930WA	169.474
+user:g7202.t1		Fungi	Ascomycetes	Sordariomycetes	fgr:FGSG_05085	30.8018
+user:g7212.t1	K01649	Bacteria	Enterobacteria	Yersinia	yen:YE0654	28.4906
+user:g7221.t1	K04614	Animals	Mammals	Lagomorpha	ocu:100311036	27.7202
+user:g7222.t1		Plants	Eudicots	Rosaceae	mdm:103454009	28.4906
+user:g7223.t1		Plants	Eudicots	Rosaceae	mdm:103413589	28.4906
+user:g7223.t2		Plants	Eudicots	Rosaceae	mdm:103413589	28.4906
+user:g7234.t1	K16474	Animals	Insects	Diptera	aga:1276940	26.1794
+user:g7538.t1	K03457	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C303140CA	955.281
+user:g7565.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C305990CA	162.925
+user:g7574.t1	K00624	Animals	Insects	Diptera	dme:Dmel_CG1041	30.0314
+user:g7604.t1		Plants	Eudicots	Solanaceae	sly:104647491	80.4925
+user:g7626.t1	K22023	Animals	Mammals	Primates	mcc:698572	32.3426
+user:g7845.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C700040CA	84.3445
+user:g7869.t1		Fungi	Ascomycetes	Eurotiomycetes	aor:AO090005001486	265.003
+user:g7878.t1	K17440	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C702120CA	133.65
+user:g7907.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C701010WA	63.929
+user:g7911.t1	K15029	Plants	Monocots	Poaceae	zma:100279318	33.113
+user:g8120.t1		Bacteria	Actinomycetota	Streptomyces	sgr:SGR_6099	29.6462
+user:g8134.t1	K11126	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C108130CA	575.859
+user:g8147.t1		Animals	Amphibians	Anura	xla:734156	31.187
+user:g8168.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C108900WA	645.195
+user:g8229.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C110580CA	46.2098
+user:g8233.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C110740CA	97.0561
+user:g198.t1	K04257	Animals	Mammals	Rodentia	rno:288789	29.6462
+user:g199.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C107610CA	73.559
+user:g204.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C107560WA	159.073
+user:g223.t1	K10991	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C107980CA	108.227
+user:g254.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C107150WA	78.5666
+user:g433.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C401960CA	244.202
+user:g454.t1	K01897	Animals	Insects	Diptera	dme:Dmel_CG3961	28.1054
+user:g460.t1	K19827	Animals	Fishes	Beloniformes	ola:101157308	36.965
+user:g460.t2		Plants	Eudicots	Solanaceae	sly:101250077	43.1282
+user:g628.t1	K12763	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR07890WA	274.248
+user:g675.t1		Bacteria	Cyanobacteriota	Gloeobacter	gvi:gll0778	31.9574
+user:g675.t2	K04646	Animals	Insects	Coleoptera	tca:656193	31.9574
+user:g676.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR08510WA	96.2857
+user:g712.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR07260CA	143.665
+user:g834.t1		Animals	Insects	Diptera	dme:Dmel_CG34113	32.7278
+user:g849.t1		Animals	Insects	Diptera	aga:3290497	30.4166
+user:g859.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C103840WA	77.7962
+user:g867.t1		Plants	Eudicots	Cucurbitaceae	csv:101204355	32.3426
+user:g909.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C103660WA	121.324
+user:g1105.t1	K22023	Animals	Amphibians	Anura	xtr:108647333	28.8758
+user:g1218.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C303490WA	78.9517
+user:g1222.t1		Plants	Green algae	Chlamydomonadaceae	cre:CHLRE_05g232751v5	30.4166
+user:g1224.t1	K06163	Bacteria	other Gammaproteobacteria	Pseudomonas	pst:PSPTO_2562	28.8758
+user:g1237.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C304410CA	269.626
+user:g1417.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C104910CA	388.652
+user:g1418.t1		Bacteria	other Gammaproteobacteria	Xanthomonas	xcc:XCC3374	28.1054
+user:g1431.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C104720WA	89.3521
+user:g1613.t1	K14715	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C300390WA	199.134
+user:g1613.t2	K14715	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C300390WA	205.297
+user:g1772.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C210000CA	90.8929
+user:g1779.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C209820WA	67.3958
+user:g1795.t1		Plants	Eudicots	Rosaceae	mdm:103410410	27.335
+user:g1943.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C110350CA	192.2
+user:g2568.t1		Viruses	Viruses	vg	vg:16607456	29.6462
+user:g2578.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C105900WA	177.178
+user:g2586.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C105790WA	88.9669
+user:g2599.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C105690CA	35.4242
+user:g2692.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C111410CA	87.4261
+user:g2707.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C111270WA	73.1738
+user:g2723.t1	K17773	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C106640CA	92.4337
+user:g2739.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C106440CA	211.075
+user:g2845.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C207700CA	77.0257
+user:g2867.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C207930CA	140.198
+user:g2869.t1	K05681	Plants	Eudicots	Solanaceae	sly:101253635	25.7942
+user:g2910.t1	K16743	Animals	Insects	Diptera	dme:Dmel_CG6875	36.1946
+user:g2986.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C503430WA	53.9138
+user:g3011.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C502110WA	128.257
+user:g3035.t1	K15319	Fungi	Ascomycetes	Eurotiomycetes	afm:AFUA_7G00150	26.9498
+user:g3036.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C502310CA	167.548
+user:g3127.t1	K10896	Animals	Insects	Diptera	aag:5571977	31.5722
+user:g3127.t2	K24456	Animals	other Ecdysozoa	Nematodes	cel:CELE_K02C4.4	33.8834
+user:g3246.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C210020CA	51.9878
+user:g3251.t1	K21053	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C206970WA	580.096
+user:g3272.t1	K15278	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C209700WA	340.502
+user:g3363.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C102210WA	60.8474
+user:g3387.t1		Protists	Amoebozoa	Evosea	ddi:DDB_G0268076	34.2686
+user:g3395.t1		Bacteria	other Gammaproteobacteria	Acinetobacter	aci:ACIAD2630	28.8758
+user:g3534.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C100370WA	119.398
+user:g3681.t1	K03723	Bacteria	Enterobacteria	Salmonella	stm:STM1216	28.4906
+user:g3692.t1	K06695	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C406150CA	139.428
+user:g4345.t1	K15140	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C101280CA	134.806
+user:g4368.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C100970WA	60.8474
+user:g4369.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C100980WA	80.4925
+user:g4504.t1	K16807	Animals	Fishes	Cypriniformes	dre:794500	29.261
+user:g4598.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR01470WA	233.802
+user:g4612.t1	K19947	Animals	Mammals	Lagomorpha	ocu:100354238	31.5722
+user:g4725.t1		Plants	Eudicots	Cucurbitaceae	csv:101211238	30.0314
+user:g4744.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C207170CA	140.584
+user:g4745.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C207180WA	47.7506
+user:g4754.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C207110CA	647.121
+user:g4770.t1		Viruses	Viruses	vg	vg:26628765	27.335
+user:g4886.t1		Bacteria	Aquificota	Aquifex	aae:aq_1219	28.8758
+user:g4887.t1	K14559	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C200070CA	627.091
+user:g4973.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C208980CA	49.6766
+user:g4988.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C208150WA	119.012
+user:g5001.t1	K03508	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C209480WA	189.504
+user:g5108.t1	K04426	Animals	other Ecdysozoa	Nematodes	cel:CELE_F59A6.1	28.8758
+user:g5205.t1	K07179	Plants	Eudicots	Solanaceae	sly:101248232	30.8018
+user:g5318.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C403290WA	776.933
+user:g5419.t1	K15144	Animals	Mammals	Primates	hsa:5469	34.2686
+user:g5433.t1	K11390	Animals	Amphibians	Anura	xla:447169	32.7278
+user:g5813.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C504850WA	123.635
+user:g5909.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR00270CA	108.997
+user:g5964.t1		Animals	Fishes	Beloniformes	ola:105356774	130.954
+user:g6067.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR00890CA	78.5666
+user:g6149.t1		Plants	Eudicots	Vitaceae	vvi:100252810	45.0542
+user:g6179.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C105440CA	60.4622
+user:g6231.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C403000CA	33.4982
+user:g6440.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C500250CA	69.707
+user:g6452.t1	K05658	Plants	Eudicots	Solanaceae	sly:101261549	30.8018
+user:g6478.t2	K06269	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C603830WA	59.6918
+user:g6504.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C500730WA	64.6994
+user:g6520.t1	K00944	Animals	Mammals	Carnivora	cfa:102152410	28.4906
+user:g6520.t2	K00944	Animals	Mammals	Carnivora	cfa:102152410	28.4906
+user:g6591.t1	K00419	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C402890CA	79.3369
+user:g6630.t1		Plants	Green algae	Chlamydomonadaceae	cre:CHLRE_14g629400v5	29.6462
+user:g6662.t1	K12875	Animals	Fishes	Cypriniformes	dre:368893	46.595
+user:g6936.t1		Fungi	Ascomycetes	Sordariomycetes	fgr:FGSG_04824	43.8986
+user:g6940.t1		Bacteria	Actinomycetota	Amycolatopsis	amd:AMED_4787	30.0314
+user:g6956.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C404790WA	389.037
+user:g6961.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C404400CA	84.3445
+user:g6978.t1	K08712	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C603840CA	54.299
+user:g6990.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C603950CA	272.322
+user:g6992.t1	K08712	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C603840CA	56.9954
+user:g7029.t2		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C209130CA	233.417
+user:g7050.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C108530WA	107.457
+user:g7052.t1		Animals	Mammals	Artiodactyla	bta:112447830	31.187
+user:g7069.t1	K27962	Animals	Mammals	Carnivora	fca:101096001	31.9574
+user:g7070.t1		Viruses	Viruses	vg	vg:1733036	29.6462
+user:g7368.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C703290CA	253.447
+user:g7368.t2		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C209130CA	229.95
+user:g7373.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C210330CA	108.227
+user:g7374.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C210330CA	96.6709
+user:g7409.t2	K11292	Fungi	Ascomycetes	Sordariomycetes	ncr:NCU04611	48.521
+user:g7447.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C503880CA	26.1794
+user:g7448.t1	K07799	Bacteria	other Gammaproteobacteria	Xanthomonas	xom:XOO3957	20.0162
+user:g7456.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C504140WA	166.777
+user:g7482.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C208330WA	125.946
+user:g7483.t1	K16882	Animals	Fishes	Cypriniformes	dre:100148002	28.8758
+user:g7706.t1	K15162	Animals	Insects	Diptera	dme:Dmel_CG8491	30.0314
+user:g7709.t1	K18633	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C406080WA	66.6254
+user:g7782.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C200650WA	1228.77
+user:g7811.t1	K01764	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C402130WA	33.4982
+user:g8005.t1	K01552	Bacteria	Bacilli	Staphylococcus	ser:SERP0661	30.8018
+user:g8019.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C603360CA	48.521
+user:g8019.t2		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C603360CA	44.669
+user:g8030.t1		Fungi	Ascomycetes	Sordariomycetes	fgr:FGSG_07426	27.335
+user:g8047.t1	K13219	Animals	Mammals	Carnivora	cfa:119871417	30.0314
+user:g8115.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C703620CA	105.916
+user:g79.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C502430WA	440.269
+user:g92.t1		Animals	Mammals	Primates	mcc:114673712	48.521
+user:g93.t1		Animals	Amphibians	Anura	xla:121397306	45.0542
+user:g344.t2	K20632	Animals	Amphibians	Anura	xtr:100490096	28.4906
+user:g345.t1	K06507	Animals	Fishes	Cypriniformes	dre:100329481	34.2686
+user:g345.t2	K06507	Animals	Fishes	Cypriniformes	dre:100329481	34.2686
+user:g346.t1		Viruses	Viruses	vg	vg:17777460	30.8018
+user:g368.t1		Viruses	Viruses	vg	vg:62680302	28.8758
+user:g399.t1	K08838	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602160WA	181.8
+user:g760.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C104350CA	173.326
+user:g824.t1	K13210	Plants	Eudicots	Cucurbitaceae	csv:101221280	31.5722
+user:g963.t1	K00782	Bacteria	Actinomycetota	Rhodococcus	rha:RHA1_ro03481	29.261
+user:g999.t1		Viruses	Viruses	vg	vg:30854949	33.8834
+user:g1008.t1		Viruses	Viruses	vg	vg:75692073	25.409
+user:g1136.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C505240CA	86.2705
+user:g1301.t1	K26977	Viruses	Viruses	vg	vg:14181547	34.2686
+user:g1303.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C601080CA	64.3142
+user:g1467.t1	K11771	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400300CA	40.0466
+user:g1487.t1	K12572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C505170WA	36.965
+user:g1638.t1		Bacteria	Enterobacteria	Citrobacter	cro:ROD_25901	31.5722
+user:g1664.t1		Plants	Eudicots	Rutaceae	cit:102614591	29.261
+user:g2474.t1	K15255	Fungi	Ascomycetes	Eurotiomycetes	afm:AFUA_5G13370	59.3066
+user:g2475.t1	K15255	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR00060CA	67.781
+user:g2508.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	456.447
+user:g2538.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400290CA	285.419
+user:g2619.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C703410CA	104.375
+user:g2629.t1	K22382	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C703240WA	59.3066
+user:g2651.t1		Fungi	Basidiomycetes	Tremellomycetes	cne:CNI03080	30.0314
+user:g2678.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	2065.04
+user:g2765.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C209130CA	77.4109
+user:g2780.t1		Viruses	Viruses	vg	vg:28801365	36.965
+user:g2797.t1		Archaea	Methanobacteriota	Methanosarcina	mba:Mbar_A0564	31.187
+user:g2816.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602090CA	72.0182
+user:g2936.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C601960WA	41.5874
+user:g2954.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR00170WA	200.675
+user:g2968.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C604140CA	227.254
+user:g2975.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	1365.52
+user:g3102.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C604140CA	102.449
+user:g3180.t1	K20061	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C603180CA	57.7658
+user:g3182.t1		Viruses	Viruses	vg	vg:30999697	28.1054
+user:g3201.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C200910WA	31.9574
+user:g3361.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C303740WA	85.5001
+user:g3444.t1	K03072	Bacteria	Actinomycetota	Mycobacterium	mtu:Rv2587c	36.5798
+user:g3463.t1	K00938	Fungi	Basidiomycetes	Tremellomycetes	cne:CNM00100	26.9498
+user:g3637.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C500050WA	116.316
+user:g3716.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C307760CA	458.759
+user:g3723.t1	K06005	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C203670WA	77.0257
+user:g3731.t1	K10742	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600320CA	880.167
+user:g3756.t1		Bacteria	Actinomycetota	Mycolicibacterium	msm:MSMEG_6033	29.6462
+user:g3777.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C505440CA	65.0846
+user:g4339.t1	K20164	Animals	other Ecdysozoa	Nematodes	cel:CELE_C52E12.4	34.2686
+user:g4525.t1	K03844	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602270CA	166.392
+user:g4840.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400290CA	457.603
+user:g4843.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C702540WA	82.8037
+user:g5144.t1		Plants	Eudicots	Fabaceae	gmx:100804450	28.1054
+user:g5166.t1		Animals	Fishes	Cypriniformes	dre:110437870	24.6386
+user:g5363.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600070CA	121.324
+user:g5385.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C307680WA	135.576
+user:g5749.t1		Animals	other Ecdysozoa	Nematodes	cel:CELE_T06D8.1	42.3578
+user:g5985.t1	K27887	Plants	Monocots	Poaceae	zma:100381956	28.1054
+user:g6003.t1		Animals	Mammals	Artiodactyla	bta:527518	29.261
+user:g6043.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600800CA	116.316
+user:g6044.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600800CA	107.071
+user:g6090.t2		Animals	Insects	Diptera	aga:133393386	110.923
+user:g6124.t1	K22023	Animals	Mammals	Artiodactyla	bta:100850574	36.5798
+user:g6127.t1	K10742	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600320CA	99.7525
+user:g6195.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C603570WA	108.612
+user:g6425.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C704000WA	123.25
+user:g6431.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600080CA	171.014
+user:g6480.t1		Bacteria	other Gammaproteobacteria	Xanthomonas	xcc:XCC4015	26.1794
+user:g6485.t1	K13127	Fungi	Ascomycetes	Eurotiomycetes	aor:AO090701000678	28.1054
+user:g6511.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	568.155
+user:g6542.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400100CA	143.28
+user:g6569.t1	K13181	Fungi	Ascomycetes	Saccharomycetes	kla:KLLA0_F15752g	64.6994
+user:g6575.t1		Animals	Mammals	Primates	mcc:716147	23.8682
+user:g6603.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C200900WA	35.8094
+user:g6654.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C500730WA	31.5722
+user:g6678.t1		Fungi	Ascomycetes	Saccharomycetes	sce:YHR211W	36.1946
+user:g6896.t1		Plants	Eudicots	Fabaceae	mtr:11443307	31.9574
+user:g6901.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C401000CA	50.0618
+user:g6924.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602760WA	63.1586
+user:g6998.t1	K17571	Animals	Mammals	Carnivora	cfa:612302	25.7942
+user:g7017.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C209130CA	82.0333
+user:g7025.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C604140CA	68.5514
+user:g7035.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR00170WA	214.542
+user:g7037.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	288.115
+user:g7039.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400600CA	127.487
+user:g7080.t1	K18738	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C603380WA	31.187
+user:g7083.t1	K00869	Archaea	Methanobacteriota	Haloarcula	hma:rrnAC0077	26.1794
+user:g7088.t1	K14547	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C300330WA	142.895
+user:g7291.t1	K22009	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602190CA	40.4318
+user:g7312.t1	K20131	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602630CA	40.817
+user:g7313.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	437.187
+user:g7314.t1	K11771	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400300CA	128.257
+user:g7343.t1		Viruses	Viruses	vg	vg:31050512	27.335
+user:g7357.t1	K21156	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C603580WA	51.2174
+user:g7358.t1		Plants	Green algae	Chlamydomonadaceae	cre:CHLRE_11g467663v5	29.261
+user:g7361.t1	K21850	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C500470CA	38.5058
+user:g7366.t1	K03247	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C307420WA	30.0314
+user:g7399.t1	K12327	Animals	Mammals	Carnivora	fca:101095888	44.2838
+user:g7441.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C109570WA	184.496
+user:g7443.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600280WA	40.4318
+user:g7446.t1	K18748	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C504730CA	187.578
+user:g7462.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C505360CA	64.3142
+user:g7490.t1		Viruses	Viruses	vg	vg:40089781	27.7202
+user:g7660.t1	K15255	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR00060CA	134.035
+user:g7663.t1	K03953	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C301610WA	42.3578
+user:g7680.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C504970CA	225.328
+user:g7682.t1	K07070	Bacteria	Enterobacteria	Erwinia	eam:EAMY_3399	27.7202
+user:g7716.t1	K20131	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602630CA	58.5362
+user:g7717.t1		Viruses	Viruses	vg	vg:62648593	27.7202
+user:g7735.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	258.84
+user:g7750.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C200900WA	38.891
+user:g7788.t1		Protists	Euglenozoa	Kinetoplastea	lma:LMJF_27_1820	27.7202
+user:g7789.t1		Animals	Mammals	Carnivora	cfa:610160	25.409
+user:g7801.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR00170WA	339.732
+user:g7828.t1	K08176	Plants	Monocots	Poaceae	zma:732718	25.7942
+user:g7829.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C502780WA	51.9878
+user:g7980.t1	K11365	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602310WA	172.17
+user:g7992.t1	K24553	Animals	Amphibians	Anura	xtr:100493540	29.261
+user:g8007.t1	K04567	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C701870WA	54.6842
+user:g8008.t1	K13908	Animals	Mammals	Artiodactyla	ssc:110259210	33.8834
+user:g8011.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C701940CA	63.1586
+user:g8012.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C603220WA	111.309
+user:g8041.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	418.313
+user:g8052.t1	K17269	Animals	Mammals	Rodentia	mmu:17196	35.039
+user:g8058.t1		Animals	Insects	Coleoptera	tca:103313439	28.1054
+user:g8073.t1		Bacteria	Clostridia	Clostridioides	cdf:CD630_12190	31.187
+user:g8087.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR07730WA	41.2022
+user:g8098.t1		Protists	Stramenopiles	Bacillariophyta	tps:THAPSDRAFT_2222	28.1054
+user:g8099.t1	K06261	Animals	Mammals	Primates	mcc:721584	27.335
+user:g8100.t1	K03325	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C406890WA	163.696
+user:g8.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C200900WA	38.5058
+user:g18.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C703620CA	96.2857
+user:g30.t1	K04257	Animals	Mammals	Didelphimorphia	mdo:100026565	25.0238
+user:g58.t1	K08836	Animals	Birds	Galliformes	gga:423878	54.299
+user:g60.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602200CA	70.8626
+user:g67.t1	K19850	Fungi	Ascomycetes	Eurotiomycetes	afm:AFUA_3G14410	21.1718
+user:g83.t1		Viruses	Viruses	vg	vg:18504753	28.1054
+user:g84.t1	K03072	Bacteria	Actinomycetota	Mycobacterium	mtu:Rv2587c	36.5798
+user:g98.t1	K00013	Bacteria	Aquificota	Aquifex	aae:aq_782	24.6386
+user:g99.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	259.61
+user:g100.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	260.381
+user:g104.t1	K06499	Animals	Mammals	Rodentia	rno:292701	32.3426
+user:g114.t1	K12562	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C604040CA	29.6462
+user:g115.t1		Viruses	Viruses	vg	vg:71841108	29.6462
+user:g271.t1	K11584	Fungi	Ascomycetes	Sordariomycetes	fgr:FGSG_05894	30.8018
+user:g296.t1		Plants	Monocots	Poaceae	osa:4325839	26.9498
+user:g309.t1		Bacteria	Clostridia	Clostridium	cbo:CBO0265	28.1054
+user:g311.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C307680WA	133.65
+user:g322.t1		Animals	Mammals	Rodentia	rno:120099830	50.0618
+user:g327.t1		Fungi	Ascomycetes	Eurotiomycetes	afm:AFUA_3G03350	26.5646
+user:g338.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602090CA	58.151
+user:g365.t1	K11501	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C603420WA	168.703
+user:g389.t1	K26544	Plants	Eudicots	Euphorbiaceae	rcu:8285746	31.9574
+user:g390.t1	K21156	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C603580WA	51.2174
+user:g504.t1	K11294	Plants	Eudicots	Euphorbiaceae	rcu:8281437	40.0466
+user:g523.t1	K04573	Animals	Amphibians	Anura	xla:397994	41.9726
+user:g541.t1		Animals	Insects	Diptera	aga:1281024	26.9498
+user:g549.t1	K01794	Animals	Mammals	Lagomorpha	ocu:100341351	31.9574
+user:g551.t1		Plants	Monocots	Poaceae	zma:100286125	25.7942
+user:g560.t1	K11244	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602670CA	76.2553
+user:g564.t1		Animals	Insects	Diptera	aga:1281024	26.9498
+user:g573.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C500250CA	35.039
+user:g574.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600980CA	41.9726
+user:g575.t1	K05841	Fungi	Ascomycetes	Eurotiomycetes	afm:AFUA_2G02220	28.8758
+user:g576.t1	K06261	Animals	Mammals	Primates	hsa:2811	40.817
+user:g583.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C500250CA	35.039
+user:g599.t1		Viruses	Viruses	vg	vg:11295055	26.9498
+user:g615.t1		Animals	Fishes	Beloniformes	ola:105355454	54.299
+user:g616.t1		Plants	Eudicots	Rosaceae	mdm:103437580	29.6462
+user:g723.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C301800CA	44.669
+user:g724.t1	K24144	Animals	Mammals	Didelphimorphia	mdo:100618251	22.3274
+user:g726.t1		Viruses	Viruses	vg	vg:80516199	25.0238
+user:g736.t1	K13448	Plants	Eudicots	Vitaceae	vvi:100248601	28.1054
+user:g744.t1	K10742	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600320CA	207.608
+user:g749.t1	K10165	Animals	Amphibians	Anura	xla:108713994	30.4166
+user:g768.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	167.548
+user:g776.t1	K10165	Animals	Amphibians	Anura	xla:108713994	30.4166
+user:g777.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C703080WA	33.113
+user:g781.t1	K20915	Animals	Insects	Diptera	aga:1281709	30.4166
+user:g798.t1		Bacteria	Actinomycetota	Mycobacteroides	mab:MAB_4615	28.8758
+user:g799.t1	K19828	Plants	Eudicots	Rosaceae	mdm:103421845	28.8758
+user:g810.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C603280WA	98.2117
+user:g811.t1		Viruses	Viruses	vg	vg:20098471	28.4906
+user:g812.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	197.208
+user:g813.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	196.823
+user:g961.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C604140CA	50.0618
+user:g971.t1	K20521	Fungi	Ascomycetes	Eurotiomycetes	ani:ANIA_05981	35.8094
+user:g972.t1	K20521	Fungi	Ascomycetes	Eurotiomycetes	ani:ANIA_05981	35.4242
+user:g973.t1		Viruses	Viruses	vg	vg:40085802	28.4906
+user:g991.t1	K10742	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600320CA	53.5286
+user:g992.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C604140CA	41.5874
+user:g994.t1		Bacteria	Cyanobacteriota	Synechocystis	syn:sll0188	23.483
+user:g1001.t1		Plants	Monocots	Poaceae	osa:4341715	29.261
+user:g1003.t1		Bacteria	other Gammaproteobacteria	Xanthomonas	xcc:XCC4015	26.1794
+user:g1029.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C304410CA	116.701
+user:g1030.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C304410CA	111.694
+user:g1115.t1	K17799	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C303820CA	113.235
+user:g1116.t1	K17799	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C303820CA	114.39
+user:g1119.t1		Animals	Mammals	Primates	mcc:716147	23.8682
+user:g1127.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	132.88
+user:g1129.t1	K18083	Animals	Mammals	Carnivora	cfa:475612	27.7202
+user:g1152.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C704000WA	96.6709
+user:g1157.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C505240CA	41.2022
+user:g1158.t1	K07512	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C300200CA	50.8322
+user:g1167.t1		Animals	Insects	Coleoptera	tca:656932	29.261
+user:g1175.t1	K11229	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C702990WA	63.1586
+user:g1179.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR00310CA	34.2686
+user:g1180.t1		Protists	Alveolates	Apicomplexa	pfa:PF3D7_0307700	27.7202
+user:g1186.t1		Animals	Insects	Coleoptera	tca:656932	29.6462
+user:g1193.t1	K00286	Bacteria	Actinomycetota	Mycobacterium	mle:ML2430	26.9498
+user:g1195.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400290CA	254.218
+user:g1294.t1	K01754	Bacteria	Actinomycetota	Streptomyces	sgu:SGLAU_02675	25.409
+user:g1298.t1		Plants	Eudicots	Rosaceae	mdm:139196239	29.6462
+user:g1299.t1		Plants	Eudicots	Rosaceae	mdm:139196239	29.6462
+user:g1300.t1	K10742	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600320CA	194.126
+user:g1308.t1		Viruses	Viruses	vg	vg:77941351	28.4906
+user:g1310.t1		Plants	Eudicots	Fabaceae	mtr:25493043	28.8758
+user:g1311.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C601300WA	36.1946
+user:g1317.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C302640CA	49.6766
+user:g1318.t1	K12762	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C501250WA	28.4906
+user:g1336.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C604140CA	96.2857
+user:g1340.t1	K24222	Animals	Mammals	Rodentia	rno:171088	28.4906
+user:g1367.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C603750CA	49.6766
+user:g1369.t1		Bacteria	Cyanobacteriota	Synechocystis	syn:slr0569	28.1054
+user:g1370.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C505240CA	51.2174
+user:g1453.t1		Plants	Eudicots	Fabaceae	gmx:100805872	28.4906
+user:g1464.t1	K00826	Plants	Green algae	Chlamydomonadaceae	cre:CHLRE_02g081400v5	33.113
+user:g1474.t1		Plants	Monocots	Poaceae	zma:103647762	25.0238
+user:g1484.t1	K20028	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C306990WA	110.538
+user:g1493.t1		Bacteria	Alphaproteobacteria	Rhizobium	rle:pRL120114	28.8758
+user:g1497.t1		Bacteria	Alphaproteobacteria	Rhizobium	rle:pRL120114	28.8758
+user:g1505.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C502430WA	38.891
+user:g1515.t1	K13181	Fungi	Ascomycetes	Saccharomycetes	kla:KLLA0_F15752g	60.8474
+user:g1523.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C200640WA	88.5817
+user:g1530.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C200640WA	88.1965
+user:g1640.t1	K01301	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400070CA	33.4982
+user:g1674.t1	K03844	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602270CA	165.622
+user:g1675.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C500380WA	38.891
+user:g1676.t1		Animals	Amphibians	Anura	xla:108716955	31.187
+user:g1679.t1	K19562	Plants	Eudicots	Fabaceae	gmx:100778549	23.483
+user:g1689.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400290CA	179.489
+user:g1697.t1	K11771	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400300CA	36.965
+user:g1699.t1	K22531	Animals	Birds	Galliformes	gga:421972	29.6462
+user:g1803.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C704000WA	63.5438
+user:g1812.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C601620WA	49.6766
+user:g1813.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C601620WA	49.2914
+user:g1814.t1	K05356	Plants	Eudicots	Rutaceae	cit:102612772	28.1054
+user:g1820.t1	K17418	Animals	Birds	Galliformes	gga:772313	27.335
+user:g1845.t1	K06205	Bacteria	Enterobacteria	Pectobacterium	eca:ECA0001	26.1794
+user:g1846.t1	K06205	Bacteria	Enterobacteria	Pectobacterium	eca:ECA0001	26.1794
+user:g1854.t1		Archaea	Methanobacteriota	Methanosarcina	mba:Mbar_A0372	21.557
+user:g1861.t1	K10527	Plants	Monocots	Poaceae	zma:100285945	26.9498
+user:g1871.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	179.489
+user:g1875.t1	K15160	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C703320CA	28.4906
+user:g2464.t1	K24553	Animals	Mammals	Carnivora	cfa:475282	26.1794
+user:g2465.t1	K03522	Bacteria	Thermodesulfobacteriota	Geobacter	gsu:GSU2796	26.1794
+user:g2478.t1	K28212	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C703970CA	28.8758
+user:g2482.t1	K28357	Plants	Monocots	Poaceae	osa:4328080	28.1054
+user:g2486.t1	K11365	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602310WA	53.9138
+user:g2488.t1	K11365	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602310WA	52.373
+user:g2489.t1	K28357	Plants	Monocots	Poaceae	osa:4328080	28.4906
+user:g2497.t1	K16308	Animals	Insects	Diptera	dme:Dmel_CG10522	21.9422
+user:g2513.t1	K10742	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600320CA	35.039
+user:g2517.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602790CA	41.9726
+user:g2526.t1	K02207	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C701920WA	20.4014
+user:g2609.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C504970CA	142.51
+user:g2623.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C603220WA	84.7297
+user:g2625.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR07730WA	39.2762
+user:g2628.t1	K22063	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602520WA	57.7658
+user:g2644.t1		Animals	Amphibians	Anura	xtr:100495411	29.261
+user:g2645.t1	K10396	Fungi	Basidiomycetes	Tremellomycetes	cne:CNB00740	31.5722
+user:g2646.t1	K03529	Bacteria	Cyanobacteriota	Synechococcus	syf:Synpcc7942_2045	32.3426
+user:g2647.t1		Animals	Amphibians	Anura	xtr:100495411	29.261
+user:g2656.t1	K17608	Fungi	Ascomycetes	Sordariomycetes	smp:10802793	29.6462
+user:g2661.t1	K15437	Plants	Eudicots	Vitaceae	vvi:100251895	21.9422
+user:g2662.t1		Viruses	Viruses	vg	vg:1403672	28.1054
+user:g2663.t1		Plants	Green algae	Chlamydomonadaceae	cre:CHLRE_06g270700v5	28.8758
+user:g2664.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C307900CA	35.4242
+user:g2670.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C702540WA	79.7221
+user:g2671.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	143.665
+user:g2766.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	117.472
+user:g2770.t1	K01183	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR00180CA	48.521
+user:g2794.t1	K14836	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C604330WA	61.6178
+user:g2810.t1	K07305	Animals	Amphibians	Anura	xtr:116409537	25.0238
+user:g2812.t1	K16073	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C302370CA	33.8834
+user:g2834.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C109570WA	73.9442
+user:g2915.t1		Animals	Fishes	Cypriniformes	dre:100534679	30.0314
+user:g2929.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C505200CA	37.3502
+user:g2932.t1	K17608	Fungi	Ascomycetes	Sordariomycetes	smp:10802793	29.6462
+user:g2934.t1		Protists	Amoebozoa	Evosea	ddi:DDB_G0274659	36.965
+user:g2935.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600980CA	129.413
+user:g2940.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C703370CA	53.5286
+user:g2950.t1		Viruses	Viruses	vg	vg:80542904	25.7942
+user:g2969.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C109570WA	87.4261
+user:g2971.t1	K11229	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C702990WA	62.003
+user:g3050.t1	K12041	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600570CA	38.1206
+user:g3051.t1		Viruses	Viruses	vg	vg:65131444	28.1054
+user:g3084.t1		Viruses	Viruses	vg	vg:911832	30.0314
+user:g3095.t1		Archaea	Thermoproteota	Pyrobaculum	pai:PAE0440	28.4906
+user:g3099.t1		Archaea	Thermoproteota	Pyrobaculum	pai:PAE0440	30.4166
+user:g3113.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C604140CA	27.335
+user:g3183.t1	K20353	Plants	Monocots	Poaceae	osa:4328009	30.8018
+user:g3195.t1		Plants	Eudicots	Solanaceae	sly:101251140	32.7278
+user:g3197.t1		Plants	Green algae	Chlamydomonadaceae	cre:CHLRE_06g280150v5	25.7942
+user:g3205.t1		Archaea	Methanobacteriota	Methanosarcina	mba:Mbar_A0372	21.557
+user:g3214.t1	K10742	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600320CA	99.7525
+user:g3218.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C306520CA	80.8777
+user:g3219.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C306520CA	81.2629
+user:g3227.t1	K11778	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C505330CA	60.8474
+user:g3433.t1	K09503	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C500350CA	42.3578
+user:g3437.t1	K03151	Archaea	Methanobacteriota	Haloferax	hvo:HVO_1651	27.335
+user:g3442.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C701710WA	41.5874
+user:g3445.t1		Plants	Green algae	Chlamydomonadaceae	cre:CHLRE_02g089500v5	28.1054
+user:g3448.t1	K01376	Protists	Euglenozoa	Kinetoplastea	lma:LMJF_34_4000	30.4166
+user:g3456.t1	K16073	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C302370CA	79.7221
+user:g3457.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C402920WA	76.2553
+user:g3462.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C402920WA	76.2553
+user:g3500.t1	K11275	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C703180CA	31.9574
+user:g3563.t1	K05445	Animals	Mammals	Lagomorpha	ocu:100348980	25.409
+user:g3574.t1	K11275	Fungi	Ascomycetes	Eurotiomycetes	ani:ANIA_02765	27.335
+user:g3576.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C505450CA	40.0466
+user:g3577.t1	K22804	Animals	Mammals	Artiodactyla	bta:510381	25.409
+user:g3582.t1	K16714	Animals	Insects	Diptera	aga:3290908	29.261
+user:g3596.t1	K24429	Animals	Amphibians	Anura	xtr:100494603	30.4166
+user:g3597.t1		Plants	Eudicots	Solanaceae	sly:100191128	22.7126
+user:g3604.t1	K24429	Animals	Amphibians	Anura	xtr:100494603	30.4166
+user:g3612.t1	K22804	Animals	Mammals	Artiodactyla	bta:510381	25.409
+user:g3626.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C505360CA	66.6254
+user:g3639.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C210020CA	51.9878
+user:g3641.t1	K16368	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C200790CA	36.5798
+user:g3642.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C307860CA	65.855
+user:g3643.t1	K23644	Animals	Insects	Diptera	aga:5667420	24.6386
+user:g3721.t1	K10742	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600320CA	79.7221
+user:g3730.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C601960WA	58.151
+user:g3734.t1	K22382	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C703240WA	42.743
+user:g3764.t1		Plants	Monocots	Poaceae	zma:103647762	25.0238
+user:g3771.t1		Plants	Monocots	Poaceae	zma:103633044	31.9574
+user:g4254.t1	K23788	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C604470CA	93.2041
+user:g4281.t1		Viruses	Viruses	vg	vg:18506408	25.0238
+user:g4284.t1		Viruses	Viruses	vg	vg:19487392	28.1054
+user:g4287.t1	K02863	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C500030WA	93.9745
+user:g4300.t1	K10742	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600320CA	135.191
+user:g4310.t1	K25874	Animals	Fishes	Beloniformes	ola:101170290	29.6462
+user:g4311.t1	K06821	Animals	Mammals	Didelphimorphia	mdo:100011009	28.1054
+user:g4328.t1	K16714	Animals	Insects	Diptera	aga:3290908	31.5722
+user:g4329.t1	K16073	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400400WA	47.7506
+user:g4332.t1		Protists	Euglenozoa	Kinetoplastea	lma:LMJF_24_1130	31.5722
+user:g4335.t1	K09272	Fungi	Ascomycetes	Sordariomycetes	fgr:FGSG_02518	34.6538
+user:g4419.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	114.775
+user:g4426.t1		Fungi	Ascomycetes	Eurotiomycetes	aor:AO090005001317	101.679
+user:g4435.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C200900WA	33.4982
+user:g4436.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C301800CA	46.2098
+user:g4440.t1	K15458	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C703010WA	52.7582
+user:g4443.t1	K08838	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602160WA	45.4394
+user:g4447.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C505450CA	40.0466
+user:g4454.t1		Viruses	Viruses	vg	vg:77934880	25.409
+user:g4505.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR00140WA	53.5286
+user:g4515.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR00170WA	96.6709
+user:g4540.t1		Animals	Amphibians	Anura	xla:494751	28.1054
+user:g4549.t1	K19791	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600460CA	55.0694
+user:g4550.t1		Bacteria	Betaproteobacteria	Paraburkholderia	bxe:Bxe_B2742	31.9574
+user:g4558.t1	K20102	Animals	Amphibians	Anura	xla:398949	29.261
+user:g4559.t1	K12331	Animals	Mammals	Perissodactyla	ecb:100064689	26.9498
+user:g4565.t1		Viruses	Viruses	vg	vg:26629412	28.8758
+user:g4567.t1		Animals	Insects	Hymenoptera	ame:410756	27.7202
+user:g4569.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600070CA	40.4318
+user:g4576.t1	K03250	Protists	Euglenozoa	Kinetoplastea	tbr:Tb11.01.3420	28.1054
+user:g4577.t1	K13587	Bacteria	Alphaproteobacteria	Agrobacterium	atu:Atu1362	28.4906
+user:g4584.t1	K05127	Animals	Mammals	Perissodactyla	ecb:100067287	26.9498
+user:g4595.t1	K01912	Bacteria	Betaproteobacteria	Bordetella	bpe:BP2675	28.4906
+user:g4641.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400100CA	80.8777
+user:g4649.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	136.732
+user:g4652.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	135.191
+user:g4663.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C501500CA	95.9005
+user:g4664.t1		Bacteria	Alphaproteobacteria	Mesorhizobium	mlo:mll2080	30.4166
+user:g4678.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602090CA	36.1946
+user:g4721.t1	K10742	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C600320CA	55.4546
+user:g4771.t1	K05127	Animals	Mammals	Perissodactyla	ecb:100067287	27.335
+user:g4775.t1	K23644	Animals	Insects	Diptera	aga:5667420	24.6386
+user:g4785.t1		Plants	Green algae	Chlamydomonadaceae	cre:CHLRE_12g504100v5	30.8018
+user:g4800.t1	K04567	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C701870WA	87.8113
+user:g4817.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C501680CA	43.8986
+user:g4818.t1	K08838	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602160WA	45.4394
+user:g4826.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C301750CA	63.929
+user:g4830.t1	K17974	Fungi	Ascomycetes	Saccharomycetes	kla:KLLA0_E06029g	73.1738
+user:g4895.t1		Plants	Eudicots	Rutaceae	cit:102625251	32.3426
+user:g4912.t1	K03953	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C301610WA	42.3578
+user:g4915.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602430WA	27.7202
+user:g4920.t1	K02227	Bacteria	Betaproteobacteria	Aromatoleum	eba:ebA5199	28.4906
+user:g4936.t1	K01358	Bacteria	Actinomycetota	Streptomyces	sco:SCO7281	29.261
+user:g4942.t1	K03869	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR00370WA	115.161
+user:g4946.t1	K16073	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400400WA	47.7506
+user:g4950.t1	K01539	Animals	Insects	Diptera	aag:5575790	26.9498
+user:g4955.t1	K13662	Bacteria	other Gammaproteobacteria	Xanthomonas	xac:XAC2582	23.8682
+user:g4958.t1	K01426	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C702920WA	53.1434
+user:g4969.t1	K13587	Bacteria	Alphaproteobacteria	Agrobacterium	atu:Atu1362	30.0314
+user:g5025.t1	K01426	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C702920WA	53.1434
+user:g5036.t1	K12619	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C401080WA	139.813
+user:g5041.t1	K11229	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C702990WA	57.3806
+user:g5042.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C702350CA	30.0314
+user:g5046.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	136.732
+user:g5061.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C302870CA	122.479
+user:g5074.t1		Viruses	Viruses	vg	vg:18506408	25.0238
+user:g5079.t1	K21855	Viruses	Viruses	vg	vg:2949781	28.4906
+user:g5084.t1	K20774	Animals	Mammals	Didelphimorphia	mdo:100012821	28.8758
+user:g5120.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C301750CA	65.855
+user:g5124.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_CR00170WA	96.6709
+user:g5134.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C501500CA	78.1814
+user:g5138.t1		Plants	Green algae	Chlamydomonadaceae	cre:CHLRE_02g145452v5	29.6462
+user:g5139.t1		Bacteria	Mycoplasmatota	Mycoplasmoides	mge:MG_390	25.409
+user:g5161.t1	K11484	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C402300WA	36.5798
+user:g5165.t1	K16261	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C401100CA	41.5874
+user:g5229.t1		Plants	Green algae	Chlamydomonadaceae	cre:CHLRE_12g504100v5	30.8018
+user:g5230.t1	K18876	Bacteria	other Gammaproteobacteria	Xanthomonas	xom:XOO2129	30.0314
+user:g5241.t1	K12619	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C401080WA	139.813
+user:g5252.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C703620CA	117.857
+user:g5261.t1		Viruses	Viruses	vg	vg:55004769	36.965
+user:g5262.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C306700CA	42.743
+user:g5268.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	161.77
+user:g5271.t1	K28103	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400820WA	56.225
+user:g5288.t1	K18876	Bacteria	other Gammaproteobacteria	Xanthomonas	xom:XOO2158	30.0314
+user:g5291.t1	K17461	Animals	Insects	Coleoptera	tca:663301	24.6386
+user:g5297.t1	K05463	Animals	Mammals	Didelphimorphia	mdo:100014767	27.335
+user:g5304.t1	K08029	Animals	Insects	Lepidoptera	bmor:101737778	28.4906
+user:g5305.t1	K18694	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C602420WA	71.2478
+user:g5359.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C306700CA	41.9726
+user:g5384.t1	K12331	Animals	Mammals	Perissodactyla	ecb:100064689	26.9498
+user:g5403.t1	K01534	Protists	Stramenopiles	Bacillariophyta	pti:PHATRDRAFT_676	25.7942
+user:g5718.t1	K18827	Bacteria	Enterobacteria	Escherichia	ecx:EcHS_A2169	26.1794
+user:g5739.t1		Plants	Eudicots	Rutaceae	cit:102625251	31.5722
+user:g5745.t1		Plants	Eudicots	Fabaceae	gmx:112998769	22.7126
+user:g5746.t1	K23959	Animals	Fishes	Beloniformes	ola:101163587	27.335
+user:g5775.t1	K21855	Viruses	Viruses	vg	vg:2949781	29.6462
+user:g5790.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C702350CA	30.0314
+user:g5834.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C501500CA	95.9005
+user:g5840.t1	K28103	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400820WA	56.225
+user:g5844.t1		Fungi	Ascomycetes	Eurotiomycetes	aor:AO090012000498	26.9498
+user:g5857.t1	K14572	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C400970CA	149.058
+user:g5867.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C701940CA	42.743
+user:g5875.t1		Plants	Monocots	Poaceae	zma:100382472	25.409
+user:g5885.t1		Bacteria	Cyanobacteriota	Nostoc	ana:alr2258	24.6386
+user:g5889.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C501500CA	78.1814
+user:g5890.t1	K23959	Animals	Fishes	Beloniformes	ola:101163587	27.335
+user:g5925.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C302250CA	47.3654
+user:g5939.t1		Viruses	Viruses	vg	vg:62974461	27.335
+user:g5950.t1		Animals	Insects	Diptera	dme:Dmel_CG9507	25.409
+user:g5958.t1		Fungi	Ascomycetes	Sordariomycetes	mgr:MGG_07656	27.7202
+user:g5992.t1		Plants	Eudicots	Rosaceae	mdm:103431576	29.261
+user:g5993.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C601560WA	67.0106
+user:g5994.t1		Fungi	Basidiomycetes	Tremellomycetes	cne:CNN00020	29.6462
+user:g5998.t1		Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C601560WA	67.0106
+user:g6002.t1		Bacteria	Actinomycetota	Streptomyces	sco:SCO6167	32.3426
+user:g6039.t1	K12562	Fungi	Ascomycetes	Pichiomycetes	cal:CAALFM_C604040CA	29.6462
+user:g6040.t1	K03529	Bacteria	Alphaproteobacteria	Rhodospirillum	rru:Rru_A3248	27.335
+user:g6061.t1		Bacteria	Actinomycetota	Bifidobacterium	blo:BL0889	22.3274
+user:g6091.t1	K28019	Animals	Insects	Diptera	aga:1277227	21.1718

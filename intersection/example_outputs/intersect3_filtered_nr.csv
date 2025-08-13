@@ -1,0 +1,415 @@
+NR_query,NR_subject,NR_taxon,NR_bitscore,evalue
+g3878.t1,gb|KHC45244.1|,Candida albicans P60002,119.0,5.10e-26
+g4345.t1,ref|XP_049262659.1|,Candida,167.0,8.52e-51
+g3723.t1,gb|RCK58931.1|,Candida viswanathii,92.4,2.08e-18
+g98.t1,ref|WP_172323239.1|,Bacteroidales,57.4,6.90e-06
+g4525.t1,gb|KAF6070885.1|,Candida albicans,176.0,4.25e-50
+g5964.t1,ref|XP_064850134.1|,Saccharomycopsis crataegensis,214.0,7.47e-60
+g8134.t1,gb|KAK6896650.1|,Candida tropicalis,590.0,0.0
+g7788.t1,ref|XP_049178672.1|,Candida oxycetoniae,58.5,5.66e-07
+g2662.t1,gb|EMG50144.1|,Candida maltosa Xu316,64.3,1.66e-10
+g2139.t1,gb|EMG50936.1|,Candida maltosa Xu316,154.0,9.98e-38
+g810.t1,ref|XP_049179690.1|,Candida oxycetoniae,110.0,1.41e-25
+g5252.t1,gb|RCK66411.1|,Candida viswanathii,120.0,2.37e-29
+g5134.t1,ref|XP_064774947.1|,Scheffersomyces xylosifermentans,85.5,1.13e-16
+g2867.t1,gb|KGU28854.1|,Candida albicans P34048,141.0,4.51e-32
+g2692.t1,ref|XP_064737613.1|,Scheffersomyces amazonensis,80.1,1.59e-16
+g2678.t1,gb|RCK59213.1|,Candida viswanathii,2288.0,0.0
+g5205.t1,gb|RLV91093.1|,Spathaspora sp. JA1,73.2,1.92e-12
+g1813.t1,ref|XP_020077282.1|,Hyphopichia burtonii NRRL Y-1933,64.3,1.48e-09
+g6179.t1,gb|KAK6892370.1|,Candida tropicalis,148.0,1.96e-33
+g2971.t1,gb|EMG45936.1|,Candida maltosa Xu316,63.2,1.15e-08
+g3534.t1,gb|KAG4405095.1|,Candida tropicalis,131.0,6.97e-37
+g576.t1,gb|KAL6450476.1|,Candida maltosa Xu316,111.0,3.37e-24
+g2072.t1,ref|XP_049180124.1|,Candida oxycetoniae,101.0,2.25e-19
+g7037.t1,ref|XP_002545273.1|,Candida tropicalis MYA-3404,303.0,4.90e-96
+g2092.t1,gb|RCK55223.1|,Candida viswanathii,204.0,3.97e-61
+g1237.t1,gb|KAL1578070.1|,Candida albicans,278.0,1.18e-73
+g7223.t2,gb|KAL6449813.1|,Candida maltosa Xu316,77.0,7.42e-12
+g6431.t1,gb|EMG45807.1|,Candida maltosa Xu316,186.0,4.14e-51
+g1638.t1,ref|XP_001523670.2|,Lodderomyces elongisporus,80.1,2.53e-13
+g2845.t1,gb|KAL6452752.1|,Candida maltosa Xu316,88.6,1.72e-20
+g5857.t1,ref|XP_049265401.1|,Candida,160.0,3.55e-43
+g1116.t1,gb|RCK67148.1|,Candida viswanathii,123.0,6.77e-30
+g4598.t1,ref|XP_051607788.1|,Candida theae,310.0,2.45e-99
+g2940.t1,gb|RCK65511.1|,Candida viswanathii,60.5,9.85e-08
+g4254.t1,ref|XP_002421203.1|,Candida dubliniensis CD36,100.0,4.84e-22
+g760.t1,ref|XP_051620262.1|,Candida jiufengensis,211.0,8.99e-56
+g2935.t1,ref|XP_064763887.1|,Scheffersomyces coipomensis,140.0,1.04e-37
+g2609.t1,ref|XP_002420751.1|,Candida dubliniensis CD36,154.0,1.23e-40
+g2910.t1,gb|KAI5911824.1|,Candida parapsilosis,62.8,3.00e-09
+g5241.t1,emb|CAI5759432.1|,Candida verbasci,156.0,1.16e-41
+g7125.t2,gb|KAL6449814.1|,Candida maltosa Xu316,102.0,1.84e-19
+g327.t1,ref|XP_069837205.1|,Dendropsophus ebraccatus,73.2,6.21e-12
+g7130.t1,gb|RCK66108.1|,Candida viswanathii,694.0,0.0
+g3731.t1,ref|XP_002420829.1|,Candida dubliniensis CD36,942.0,0.0
+g5036.t1,emb|CAI5759432.1|,Candida verbasci,156.0,1.16e-41
+g7538.t1,gb|EMG50384.1|,Candida maltosa Xu316,962.0,0.0
+g6272.t1,emb|CAI5759266.1|,Candida verbasci,138.0,1.92e-40
+g5305.t1,ref|XP_002421014.1|,Candida dubliniensis CD36,75.9,2.57e-13
+g523.t1,ref|XP_051617209.1|,Candida pseudojiufengensis,82.8,5.02e-14
+g1530.t1,ref|XP_051608213.1|,Candida theae,104.0,5.81e-23
+g1772.t1,gb|KAF6063946.1|,Candida albicans,96.3,1.77e-21
+g3730.t1,gb|RCK57914.1|,Candida viswanathii,70.1,2.85e-11
+g3387.t1,emb|CAI5758966.1|,Candida verbasci,75.1,4.76e-14
+g3826.t1,gb|EMG50142.1|,Candida maltosa Xu316,104.0,8.86e-19
+g5001.t1,gb|EDK44404.1|,Lodderomyces elongisporus NRRL YB-4239,220.0,2.04e-67
+g7124.t1,gb|RCK66008.1|,Candida viswanathii,309.0,1.33e-95
+g3219.t1,gb|EMG45435.1|,Candida maltosa Xu316,91.3,2.63e-19
+g4826.t1,ref|XP_064773899.1|,Scheffersomyces xylosifermentans,63.9,3.55e-09
+g345.t2,gb|KAL6449813.1|,Candida maltosa Xu316,86.3,4.06e-14
+g4800.t1,ref|XP_067547141.1|,Candida metapsilosis,126.0,8.77e-32
+g5297.t1,ref|XP_049266509.1|,Candida,71.6,8.71e-12
+g2146.t1,gb|KAK6895287.1|,Candida tropicalis,130.0,3.29e-29
+g6716.t1,gb|KAL6453049.1|,Candida maltosa Xu316,62.0,2.87e-08
+g223.t1,ref|XP_067546581.1|,Candida metapsilosis,145.0,1.53e-39
+g1218.t1,gb|EMG50488.1|,Candida maltosa Xu316,121.0,1.56e-30
+g3246.t1,gb|RCK54999.1|,Candida viswanathii,55.8,1.77e-06
+g560.t1,gb|KAK6873890.1|,Candida tropicalis,92.4,1.83e-19
+g4973.t1,ref|XP_037789917.1|,Penaeus monodon,69.3,9.16e-09
+g3642.t1,ref|XP_066830181.1|,Lodderomyces beijingensis,99.8,9.98e-22
+g4368.t1,gb|KGU36292.1|,Candida albicans P75063,83.2,1.39e-16
+g3036.t1,ref|XP_049263966.1|,Candida,209.0,2.99e-56
+g5925.t1,gb|KAL6452936.1|,Candida maltosa Xu316,57.0,2.87e-08
+g7735.t1,emb|CAI5759429.1|,Candida verbasci,304.0,1.09e-89
+g7357.t1,gb|KAK6897689.1|,Candida tropicalis,54.7,4.05e-06
+g1812.t1,ref|XP_020077282.1|,Hyphopichia burtonii NRRL Y-1933,63.9,2.24e-09
+g4840.t1,ref|XP_066831919.1|,Lodderomyces beijingensis,460.0,3.55e-158
+g3456.t1,ref|XP_051607089.1|,Candida theae,96.3,1.12e-20
+g6542.t1,gb|RLV90868.1|,Spathaspora sp. JA1,160.0,2.38e-43
+g7126.t1,gb|KAL6449814.1|,Candida maltosa Xu316,71.2,1.38e-09
+g7574.t1,ref|XP_064773437.1|,Scheffersomyces xylosifermentans,67.8,1.26e-10
+g3721.t1,gb|EMG45788.1|,Candida maltosa Xu316,88.6,1.04e-17
+g7907.t1,gb|RCK65582.1|,Candida viswanathii,87.0,9.99e-15
+g2578.t1,ref|XP_049182787.1|,Candida oxycetoniae,278.0,6.34e-76
+g6127.t1,ref|XP_003870797.1|,Candida orthopsilosis Co 90-125,114.0,2.00e-25
+g8030.t1,ref|XP_051619742.1|,Candida jiufengensis,58.2,8.35e-07
+g3463.t1,gb|EMG48061.1|,Candida maltosa Xu316,58.2,6.27e-07
+g3205.t1,dbj|BGR34489.1|,Thiomonas islandica,62.4,2.56e-10
+g6896.t1,gb|EMG46438.1|,Candida maltosa Xu316,204.0,2.71e-56
+g1431.t1,gb|KGU14810.1|,Candida albicans P87,97.4,2.68e-24
+g5061.t1,ref|XP_002548261.1|,Candida tropicalis MYA-3404,142.0,9.35e-38
+g1493.t1,ref|XP_049264411.1|,Candida,73.9,1.21e-12
+g7368.t2,ref|XP_051674018.1|,Candida margitis,255.0,4.01e-78
+g6924.t1,gb|KGR05037.1|,Candida albicans P57072,60.5,1.94e-06
+g7052.t1,emb|CAI5757407.1|,Candida verbasci,70.1,7.49e-12
+g2044.t1,gb|RCK67266.1|,Candida viswanathii,112.0,6.27e-25
+g8168.t1,gb|EMG45632.1|,Candida maltosa Xu316,741.0,0.0
+g3127.t2,ref|XP_001385008.2|,Scheffersomyces stipitis CBS 6054,100.0,1.74e-18
+g5889.t1,ref|XP_064774947.1|,Scheffersomyces xylosifermentans,85.5,1.13e-16
+g7039.t1,gb|EMG47539.1|,Candida maltosa Xu316,129.0,4.54e-32
+g7626.t1,ref|XP_049265963.1|,Candida,64.7,6.32e-10
+g859.t1,gb|QRG39356.1|,Candidozyma auris,106.0,1.69e-27
+g7992.t1,ref|XP_064776116.1|,Scheffersomyces xylosifermentans,61.6,1.36e-08
+g311.t1,gb|KAG4409342.1|,Candida tropicalis,142.0,3.06e-36
+g8147.t1,ref|XP_003866333.1|,Candida orthopsilosis Co 90-125,225.0,2.18e-70
+g7223.t1,gb|KAL6449813.1|,Candida maltosa Xu316,86.3,3.31e-14
+g2968.t1,gb|EMG50256.1|,Candida maltosa Xu316,216.0,5.51e-56
+g2671.t1,gb|RCK59213.1|,Candida viswanathii,141.0,5.84e-36
+g1685.t1,emb|CAI5979767.1|,Closterium sp. NIES-64,86.3,1.20e-16
+g5540.t1,ref|XP_001525601.2|,Lodderomyces elongisporus,57.4,6.98e-06
+g7221.t1,gb|KAL6449814.1|,Candida maltosa Xu316,75.1,1.94e-12
+g3716.t1,ref|XP_719809.1|,Candida albicans SC5314,462.0,5.60e-161
+g6654.t1,ref|XP_047104671.1|,Schistocerca piceifrons,164.0,1.18e-43
+g6746.t1,ref|XP_049180954.1|,Candida oxycetoniae,754.0,0.0
+g3563.t1,ref|XP_064736288.1|,Scheffersomyces amazonensis,58.9,4.20e-08
+g6956.t1,ref|XP_002545654.1|,Candida tropicalis MYA-3404,397.0,2.17e-125
+g1195.t1,ref|XP_066831919.1|,Lodderomyces beijingensis,255.0,3.01e-80
+g4641.t1,gb|RLV90868.1|,Spathaspora sp. JA1,83.6,4.25e-16
+g2936.t1,gb|KAK6873341.1|,Candida tropicalis,60.8,2.45e-08
+g744.t1,gb|KAF6071070.1|,Candida albicans,218.0,2.02e-62
+g3448.t1,ref|XP_051617832.1|,Candida jiufengensis,97.8,5.32e-21
+g6067.t1,ref|XP_019331050.1|,Candida albicans SC5314,85.1,4.74e-19
+g8007.t1,ref|XP_049182199.1|,Candida oxycetoniae,79.7,7.06e-15
+g5120.t1,ref|XP_064773899.1|,Scheffersomyces xylosifermentans,66.2,7.04e-10
+g2437.t1,gb|RLV93017.1|,Spathaspora sp. JA1,246.0,8.15e-74
+g7456.t1,gb|KGR11267.1|,Candida albicans P37037,177.0,1.71e-46
+g67.t1,ref|XP_064776406.1|,Scheffersomyces xylosifermentans,57.4,1.56e-06
+g4721.t1,emb|CAI5760795.1|,Candida verbasci,70.1,2.91e-11
+g1301.t1,gb|RCK58102.1|,Candida viswanathii,122.0,4.12e-27
+g3182.t1,ref|XP_051672533.1|,Candida margitis,63.9,1.78e-09
+g6478.t2,gb|EMG50216.1|,Candida maltosa Xu316,67.4,1.35e-09
+g199.t1,ref|XP_049262577.1|,Candida,114.0,2.75e-27
+g4576.t1,gb|EDK46926.1|,Lodderomyces elongisporus NRRL YB-4239,72.4,3.94e-12
+g834.t1,ref|XP_051612598.1|,Candida pseudojiufengensis,119.0,3.58e-30
+g521.t1,emb|CAI5979767.1|,Closterium sp. NIES-64,174.0,5.93e-46
+g7144.t1,ref|XP_051611038.1|,Candida theae,637.0,0.0
+g813.t1,gb|RCK59213.1|,Candida viswanathii,216.0,2.72e-61
+g3102.t1,ref|XP_049260630.1|,Candida,113.0,6.67e-25
+g322.t1,gb|MGH0126658.1|,Acipenser sinensis,104.0,1.18e-24
+g4339.t1,gb|EMG50144.1|,Candida maltosa Xu316,72.8,1.10e-13
+g628.t1,gb|AJT59418.1|,Candida tropicalis,316.0,2.22e-96
+g7314.t1,ref|XP_049265796.1|,Candida,213.0,1.42e-57
+g7801.t1,ref|XP_002546284.1|,Candida tropicalis MYA-3404,352.0,1.10e-114
+g6043.t1,ref|XP_049265871.1|,Candida,149.0,4.75e-34
+g3363.t1,ref|XP_051620056.1|,Candida jiufengensis,83.6,9.78e-14
+g1317.t1,emb|CAI5758596.1|,Candida verbasci,71.2,5.51e-11
+g2969.t1,ref|XP_043047237.1|,Scheffersomyces spartinae,101.0,4.03e-22
+g8100.t1,ref|XP_064774541.1|,Scheffersomyces xylosifermentans,184.0,1.44e-53
+g1030.t1,gb|EMG50521.1|,Candida maltosa Xu316,138.0,3.01e-34
+g2102.t1,gb|RCK67607.1|,Candida viswanathii,130.0,7.86e-33
+g6322.t1,gb|RLV90696.1|,Spathaspora sp. JA1,196.0,4.00e-58
+g399.t1,ref|XP_001385099.2|,Scheffersomyces stipitis CBS 6054,183.0,2.25e-49
+g1029.t1,gb|EMG50521.1|,Candida maltosa Xu316,139.0,1.85e-34
+g4744.t1,ref|XP_020065290.1|,Suhomyces tanzawaensis NRRL Y-17324,176.0,1.01e-42
+g615.t1,emb|CDN39810.1|,Streptococcus pneumoniae,85.9,5.64e-16
+g3218.t1,gb|EMG45435.1|,Candida maltosa Xu316,89.4,1.50e-18
+g5993.t1,ref|XP_002420938.1|,Candida dubliniensis CD36,62.8,6.91e-09
+g6758.t1,ref|XP_002419191.1|,Candida dubliniensis CD36,120.0,1.67e-29
+g6390.t1,ref|XP_020065654.1|,Suhomyces tanzawaensis NRRL Y-17324,89.0,1.28e-20
+g6978.t1,gb|KAL6453447.1|,Candida maltosa Xu316,58.5,1.33e-07
+g3214.t1,gb|KAL6453984.1|,Candida maltosa Xu316,114.0,7.93e-27
+g7869.t1,ref|XP_049264627.1|,Candida,326.0,1.16e-108
+g2794.t1,ref|XP_064740026.1|,Scheffersomyces amazonensis,95.5,6.69e-20
+g2986.t1,gb|EMG46458.1|,Candida maltosa Xu316,141.0,1.56e-33
+g7368.t1,ref|XP_051674018.1|,Candida margitis,281.0,5.13e-88
+g1613.t1,ref|XP_002418984.1|,Candida dubliniensis CD36,223.0,1.09e-67
+g7482.t1,ref|XP_002547517.1|,Candida tropicalis MYA-3404,155.0,2.78e-41
+g849.t1,ref|XP_002417051.1|,Candida dubliniensis CD36,73.6,2.65e-13
+g1127.t1,gb|KAK6892306.1|,Candida tropicalis,147.0,1.72e-37
+g4504.t1,ref|XP_710133.2|,Candida albicans SC5314,53.5,7.30e-06
+g6341.t1,emb|CAI5759357.1|,Candida verbasci,978.0,0.0
+g58.t1,emb|CDN39810.1|,Streptococcus pneumoniae,87.0,1.70e-16
+g2236.t2,ref|XP_002619738.2|,Clavispora lusitaniae,102.0,2.22e-26
+g99.t1,gb|KAK6885667.1|,Candida tropicalis,290.0,9.94e-86
+g6044.t1,ref|XP_049265871.1|,Candida,142.0,2.74e-32
+g8233.t1,ref|XP_049178739.1|,Candida oxycetoniae,84.3,1.95e-14
+g204.t1,gb|KAL1575631.1|,Candida albicans,166.0,7.21e-45
+g549.t1,gb|EMG47651.1|,Candida maltosa Xu316,114.0,5.26e-25
+g3969.t1,ref|XP_003869477.1|,Candida orthopsilosis Co 90-125,87.4,1.18e-18
+g3011.t1,emb|CAI5759899.1|,Candida verbasci,171.0,1.12e-51
+g768.t1,dbj|GME83683.1|,Ambrosiozyma monospora,196.0,1.11e-55
+g3941.t1,gb|KAL1574709.1|,Candida albicans,375.0,5.89e-126
+g6504.t1,emb|CAI5961232.1|,Closterium sp. NIES-65,198.0,9.57e-52
+g5363.t1,ref|XP_051622343.1|,Candida jiufengensis,93.6,1.24e-15
+g4577.t1,gb|EMG45719.1|,Candida maltosa Xu316,61.2,1.94e-08
+g7374.t1,ref|XP_001523183.1|,Lodderomyces elongisporus,100.0,5.17e-24
+g7604.t1,ref|XP_063594314.1|,Penaeus indicus,203.0,1.10e-54
+g3251.t1,gb|EMG47192.1|,Candida maltosa Xu316,591.0,0.0
+g6511.t1,gb|RCK59213.1|,Candida viswanathii,602.0,0.0
+g254.t1,gb|KAG4405896.1|,Candida tropicalis,96.7,3.30e-23
+g4942.t1,ref|XP_002421648.1|,Candida dubliniensis CD36,119.0,1.60e-28
+g5840.t1,ref|XP_049265390.1|,Candida,67.4,3.21e-11
+g3626.t1,gb|KAL6451598.1|,Candida maltosa Xu316,68.9,3.99e-11
+g7399.t1,gb|MFN3178767.1|,Thermus sp.,63.2,1.66e-07
+g4818.t1,gb|RCK57511.1|,Candida viswanathii,60.1,1.03e-08
+g2271.t2,gb|KAL6452361.1|,Candida maltosa Xu316,65.1,1.77e-09
+g6090.t2,gb|KAK6888446.1|,Candida tropicalis,429.0,2.78e-146
+g8011.t1,ref|XP_067548645.1|,Candida metapsilosis,68.9,2.04e-09
+g4436.t1,ref|XP_001382431.2|,Scheffersomyces stipitis CBS 6054,74.3,7.78e-13
+g1613.t2,ref|XP_002418984.1|,Candida dubliniensis CD36,223.0,8.73e-68
+g4649.t1,gb|KAK6880265.1|,Candida tropicalis,142.0,1.71e-38
+g5025.t1,gb|EMG45886.1|,Candida maltosa Xu316,59.3,1.52e-08
+g2915.t1,ref|XP_051622459.1|,Candida jiufengensis,62.8,1.89e-08
+g5909.t1,emb|CAI5755527.1|,Candida verbasci,122.0,3.34e-33
+g2538.t1,ref|XP_051611903.1|,Candida pseudojiufengensis,278.0,6.30e-92
+g1136.t1,gb|EMG47922.1|,Candida maltosa Xu316,147.0,1.10e-37
+g4886.t1,ref|XP_049179489.1|,Candida oxycetoniae,65.5,3.00e-09
+g433.t1,ref|XP_051621198.1|,Candida jiufengensis,244.0,2.00e-72
+g3227.t1,gb|KAK6893890.1|,Candida tropicalis,62.0,1.96e-08
+g5165.t1,gb|KAL6451884.1|,Candida maltosa Xu316,55.5,5.62e-07
+g723.t1,gb|KAL7665916.1|,Candida,74.7,5.67e-13
+g1115.t1,gb|RCK67148.1|,Candida viswanathii,122.0,1.38e-29
+g5271.t1,ref|XP_049265390.1|,Candida,67.4,3.21e-11
+g3180.t1,gb|KAG2732875.1|,Scheffersomyces stipitis,81.6,2.39e-13
+g4550.t1,gb|EMG47722.1|,Candida maltosa Xu316,57.4,8.30e-07
+g7069.t1,gb|KGU18125.1|,Candida albicans P34048,65.1,1.81e-09
+g2298.t2,gb|KAL6452179.1|,Candida maltosa Xu316,102.0,1.83e-26
+g4843.t1,gb|KGU23297.1|,Candida albicans P57055,88.2,4.51e-17
+g812.t1,gb|RCK59213.1|,Candida viswanathii,219.0,3.40e-62
+g8041.t1,ref|XP_002545274.1|,Candida tropicalis MYA-3404,482.0,5.54e-169
+g3095.t1,gb|KGU33196.1|,Candida albicans P57055,55.5,5.62e-06
+g2954.t1,ref|XP_051617832.1|,Candida jiufengensis,217.0,2.42e-62
+g4426.t1,gb|RLV89685.1|,Spathaspora sp. JA1,124.0,4.61e-31
+g4817.t1,emb|CAL1181181.1|,Candida parapsilosis,72.4,4.47e-12
+g4569.t1,ref|XP_002420819.1|,Candida dubliniensis CD36,54.3,9.14e-06
+g5992.t1,ref|XP_064738461.1|,Scheffersomyces amazonensis,54.3,3.26e-06
+g616.t1,gb|EMG48992.1|,Candida maltosa Xu316,69.3,1.22e-09
+g4549.t1,gb|EMG45772.1|,Candida maltosa Xu316,60.8,1.23e-09
+g6791.t1,gb|KAL5270374.1|,Mnemiopsis leidyi,88.2,1.54e-13
+g6630.t1,dbj|BFZ22564.1|,Bradybaena similaris,114.0,9.57e-28
+g6440.t1,ref|XP_049265215.1|,Candida,103.0,4.84e-24
+g2644.t1,gb|EMG46290.1|,Candida maltosa Xu316,63.2,5.62e-09
+g2765.t1,gb|EDK47355.1|,Lodderomyces elongisporus NRRL YB-4239,100.0,6.23e-24
+g8012.t1,gb|KGU25857.1|,Candida albicans P57055,108.0,2.65e-24
+g2599.t1,gb|RCK56158.1|,Candida viswanathii,89.4,1.50e-17
+g781.t1,gb|MFA3599908.1|,Acinetobacter baumannii,71.6,2.03e-11
+g1175.t1,gb|EMG45936.1|,Candida maltosa Xu316,63.9,3.50e-08
+g3692.t1,gb|KGQ92596.1|,Candida albicans GC75,149.0,5.80e-41
+g1515.t1,emb|SCU82807.1|,Lachancea meyersii CBS 8951,78.2,1.51e-13
+g7125.t1,gb|KAL6449814.1|,Candida maltosa Xu316,101.0,2.42e-19
+g3971.t1,ref|XP_049180770.1|,Candida oxycetoniae,369.0,1.69e-117
+g309.t1,ref|XP_049266509.1|,Candida,172.0,9.37e-46
+g6250.t1,gb|KAL6450210.1|,Candida maltosa Xu316,110.0,4.89e-29
+g3911.t1,gb|RCK62302.1|,Candida viswanathii,155.0,5.11e-44
+g6297.t1,ref|XP_051607487.1|,Candida theae,95.1,8.31e-21
+g7845.t1,ref|XP_003871256.1|,Candida orthopsilosis Co 90-125,100.0,1.44e-21
+g991.t1,ref|XP_002420829.1|,Candida dubliniensis CD36,60.1,1.13e-06
+g4287.t1,ref|XP_002420313.1|,Candida dubliniensis CD36,96.3,1.08e-21
+g1523.t1,ref|XP_051608213.1|,Candida theae,106.0,1.29e-23
+g6678.t1,gb|KAG4080668.1|,Bradysia odoriphaga,99.4,1.89e-18
+g1310.t1,gb|RCK58102.1|,Candida viswanathii,62.0,5.16e-08
+g4100.t1,ref|XP_069156436.1|,Procambarus clarkii,77.0,2.44e-11
+g2236.t1,ref|XP_002619738.2|,Clavispora lusitaniae,91.7,3.88e-22
+g1336.t1,emb|CAK7913114.1|,Candida,106.0,3.84e-23
+g7088.t1,gb|RCK55141.1|,Candida viswanathii,158.0,1.87e-41
+g7070.t1,ref|XP_002422165.1|,Candida dubliniensis CD36,95.1,6.31e-21
+g100.t1,gb|KAK6885667.1|,Candida tropicalis,290.0,1.10e-85
+g2241.t1,emb|CAA7389409.1|,Spirodela intermedia,58.9,1.79e-07
+g3050.t1,ref|XP_051614164.1|,Candida pseudojiufengensis,80.5,1.05e-14
+g1303.t1,ref|XP_049265895.1|,Candida,300.0,8.44e-89
+g79.t1,ref|XP_064761858.1|,Scheffersomyces coipomensis,558.0,0.0
+g7829.t1,ref|XP_036667127.1|,Candida parapsilosis,69.3,1.37e-09
+g3639.t1,gb|RCK54999.1|,Candida viswanathii,55.8,1.77e-06
+g6901.t1,gb|KAE8289371.1|,Larimichthys crocea,77.8,6.11e-13
+g4830.t1,gb|RCK65000.1|,Candida viswanathii,129.0,6.01e-32
+g5318.t1,gb|KAG2733145.1|,Scheffersomyces stipitis,969.0,0.0
+g6520.t1,ref|XP_019330677.1|,Candida albicans SC5314,74.3,2.14e-15
+g3457.t1,ref|XP_066831828.1|,Lodderomyces beijingensis,95.5,2.87e-20
+g4116.t1,ref|XP_049263518.1|,Candida,511.0,2.88e-180
+g1370.t1,gb|RLP65638.1|,Candida albicans Ca529L,60.1,3.83e-07
+g2647.t1,gb|EMG46290.1|,Candida maltosa Xu316,63.9,3.55e-09
+g2013.t1,ref|XP_049264897.1|,Candida,87.4,1.36e-17
+g7565.t1,ref|XP_003868513.1|,Candida orthopsilosis Co 90-125,197.0,3.84e-49
+g963.t1,gb|KAK6875297.1|,Candida tropicalis,94.4,7.22e-20
+g2834.t1,ref|XP_043047237.1|,Scheffersomyces spartinae,87.0,5.83e-17
+g4300.t1,ref|XP_002420829.1|,Candida dubliniensis CD36,145.0,6.13e-38
+g1779.t1,gb|KAL6449872.1|,Candida maltosa Xu316,90.9,5.43e-15
+g724.t1,emb|CAI5979767.1|,Closterium sp. NIES-64,135.0,8.65e-33
+g4652.t1,ref|XP_002545274.1|,Candida tropicalis MYA-3404,159.0,5.73e-45
+g712.t1,ref|XP_002548764.1|,Candida tropicalis MYA-3404,166.0,1.09e-47
+g4745.t1,gb|EMG50547.1|,Candida maltosa Xu316,70.5,1.51e-10
+g2289.t1,gb|EMG50684.1|,Candida maltosa Xu316,946.0,0.0
+g4114.t1,gb|KAL6454632.1|,Candida maltosa Xu316,157.0,9.82e-44
+g6812.t1,gb|RCK64416.1|,Candida viswanathii,772.0,0.0
+g6195.t1,ref|XP_049179272.1|,Candida oxycetoniae,118.0,2.99e-29
+g7017.t1,ref|XP_060975627.1|,Lodderomyces elongisporus,96.7,6.94e-20
+g7181.t1,ref|XP_051613455.1|,Candida pseudojiufengensis,58.9,1.87e-07
+g4771.t1,gb|RLV90878.1|,Spathaspora sp. JA1,72.8,2.74e-12
+g2271.t1,gb|RCK54975.1|,Candida viswanathii,119.0,9.03e-28
+g574.t1,emb|CAD1813690.1|,Candida parapsilosis,56.2,5.74e-07
+g2619.t1,emb|CAI5760463.1|,Candida verbasci,126.0,4.19e-31
+g5124.t1,ref|XP_049179552.1|,Candida oxycetoniae,108.0,5.24e-25
+g1689.t1,ref|XP_001383973.1|,Scheffersomyces stipitis CBS 6054,180.0,1.21e-54
+g6419.t1,ref|XP_002420285.1|,Candida dubliniensis CD36,369.0,1.57e-124
+g676.t1,gb|EMG48108.1|,Candida maltosa Xu316,140.0,3.37e-34
+g3830.t1,ref|XP_019331092.1|,Candida albicans SC5314,103.0,2.64e-26
+g2586.t1,ref|XP_019330655.1|,Candida albicans SC5314,103.0,9.03e-27
+g92.t1,gb|NER33066.1|,Oscillatoria sp. SIO1A7,169.0,1.87e-40
+g1300.t1,gb|KHC34412.1|,Candida albicans Ca6,199.0,1.33e-55
+g3462.t1,ref|XP_066831828.1|,Lodderomyces beijingensis,95.5,2.87e-20
+g8115.t1,gb|RCK66411.1|,Candida viswanathii,114.0,3.58e-27
+g3433.t1,gb|KAL6451141.1|,Candida maltosa Xu316,57.8,2.22e-07
+g5385.t1,gb|KAG4409342.1|,Candida tropicalis,144.0,3.84e-37
+g2766.t1,ref|XP_049265401.1|,Candida,130.0,4.40e-32
+g7156.t2,ref|XP_049263485.1|,Candida,74.7,1.48e-11
+g7483.t1,gb|RCK67359.1|,Candida viswanathii,58.2,3.37e-07
+g2206.t1,ref|XP_064738328.1|,Scheffersomyces amazonensis,125.0,2.34e-35
+g4887.t1,ref|XP_049263627.1|,Candida,731.0,0.0
+g7313.t1,gb|KAG4409418.1|,Candida tropicalis,464.0,4.43e-145
+g3127.t1,ref|XP_001385008.2|,Scheffersomyces stipitis CBS 6054,99.4,7.97e-19
+g2723.t1,ref|XP_019330661.1|,Candida albicans SC5314,90.9,1.78e-22
+g5813.t1,gb|KHC33059.1|,Candida albicans P76067,134.0,1.11e-33
+g7029.t2,ref|XP_051674018.1|,Candida margitis,253.0,2.41e-77
+g2508.t1,gb|KAK6873928.1|,Candida tropicalis,393.0,3.48e-116
+g4958.t1,gb|EMG45886.1|,Candida maltosa Xu316,59.3,1.52e-08
+g3959.t1,ref|XP_051620315.1|,Candida jiufengensis,89.0,1.55e-16
+g867.t1,ref|XP_002550475.1|,Candida tropicalis MYA-3404,106.0,6.11e-24
+g6990.t1,gb|RCK64871.1|,Candida viswanathii,296.0,3.43e-95
+g1417.t1,ref|XP_003867835.1|,Candida orthopsilosis Co 90-125,417.0,1.38e-142
+g7680.t1,gb|EMG47897.1|,Candida maltosa Xu316,242.0,4.36e-71
+g4505.t1,gb|EMG45962.1|,Candida maltosa Xu316,65.1,1.66e-09
+g909.t1,gb|KGQ95646.1|,Candida albicans P94015,119.0,1.07e-32
+g1943.t1,gb|KAI5903947.1|,Candida parapsilosis,223.0,7.14e-58
+g7446.t1,gb|RCK65239.1|,Candida viswanathii,271.0,1.06e-78
+g6575.t1,ref|XP_002419691.1|,Candida dubliniensis CD36,57.4,1.89e-06
+g7190.t2,ref|XP_049263485.1|,Candida,80.1,6.66e-13
+g7373.t1,ref|XP_049182602.1|,Candida oxycetoniae,135.0,9.90e-37
+g6828.t1,ref|XP_064760616.1|,Scheffersomyces coipomensis,495.0,2.98e-173
+g115.t1,ref|XP_049261121.1|,Candida,62.4,5.42e-08
+g5046.t1,gb|KAK6880265.1|,Candida tropicalis,142.0,1.71e-38
+g2474.t1,ref|XP_049262271.1|,Candida,125.0,4.23e-28
+g365.t1,emb|CAI5760604.1|,Candida verbasci,175.0,1.38e-47
+g4663.t1,ref|XP_049179085.1|,Candida oxycetoniae,97.4,7.36e-21
+g6520.t2,ref|XP_019330677.1|,Candida albicans SC5314,72.0,1.35e-14
+g6591.t1,ref|XP_020063533.1|,Suhomyces tanzawaensis NRRL Y-17324,99.8,1.66e-25
+g4328.t1,ref|XP_049179324.1|,Candida oxycetoniae,63.2,8.55e-09
+g344.t2,emb|CAI5979767.1|,Closterium sp. NIES-64,556.0,5.91e-166
+g7878.t1,ref|XP_067547101.1|,Candida metapsilosis,154.0,1.22e-44
+g7441.t1,ref|XP_049262253.1|,Candida,200.0,6.57e-55
+g2303.t1,gb|KAG4408534.1|,Candida tropicalis,87.4,7.22e-20
+g60.t1,gb|KAK6890541.1|,Candida tropicalis,108.0,3.53e-27
+g1871.t1,ref|XP_002545274.1|,Candida tropicalis MYA-3404,212.0,3.21e-65
+g6569.t1,ref|XP_062879929.1|,Australozyma saopauloensis,97.4,7.17e-21
+g4123.t1,gb|KAK6885788.1|,Candida tropicalis,138.0,2.36e-28
+g3777.t1,emb|CAI5759684.1|,Candida verbasci,84.3,1.05e-15
+g1814.t1,ref|XP_002419656.1|,Candida dubliniensis CD36,70.1,4.31e-11
+g4369.t1,ref|XP_066013796.1|,Yamadazyma tenuis,91.7,7.80e-20
+g6745.t1,ref|XP_066829246.1|,Lodderomyces beijingensis,69.7,1.58e-12
+g4969.t1,gb|EMG45719.1|,Candida maltosa Xu316,62.8,5.89e-09
+g2428.t1,gb|KAL6450561.1|,Candida maltosa Xu316,127.0,2.85e-36
+g2629.t1,ref|XP_049260813.1|,Candida,77.8,2.65e-13
+g7194.t1,ref|XP_067549948.1|,Candida metapsilosis,232.0,1.59e-65
+g8229.t1,gb|RCK63115.1|,Candida viswanathii,53.5,1.26e-06
+g3637.t1,ref|XP_051609539.1|,Candida theae,144.0,6.63e-37
+g4443.t1,gb|RCK57511.1|,Candida viswanathii,60.1,1.03e-08
+g7462.t1,gb|KAL6451598.1|,Candida maltosa Xu316,67.0,2.38e-10
+g346.t1,emb|CAI5979767.1|,Closterium sp. NIES-64,400.0,4.86e-116
+g8005.t1,ref|XP_002420892.1|,Candida dubliniensis CD36,101.0,5.00e-20
+g5108.t1,ref|XP_049180440.1|,Candida oxycetoniae,94.4,8.39e-21
+g1484.t1,gb|EMG49077.1|,Candida maltosa Xu316,119.0,7.10e-29
+g7050.t1,gb|RCK63404.1|,Candida viswanathii,111.0,9.32e-27
+g2780.t1,ref|XP_049178394.1|,Candida oxycetoniae,92.4,6.89e-21
+g2739.t1,ref|XP_003866169.1|,Candida orthopsilosis Co 90-125,246.0,4.28e-64
+g3361.t1,ref|XP_003869641.1|,Candida orthopsilosis Co 90-125,108.0,8.52e-27
+g6149.t1,gb|RLP62471.1|,Candida albicans Ca529L,80.9,8.81e-12
+g2670.t1,gb|RCK65343.1|,Candida viswanathii,84.7,8.50e-17
+g4515.t1,ref|XP_049179552.1|,Candida oxycetoniae,108.0,5.24e-25
+g3582.t1,ref|XP_049179324.1|,Candida oxycetoniae,63.2,7.91e-09
+g1803.t1,ref|XP_001523624.2|,Lodderomyces elongisporus,71.6,1.92e-12
+g4754.t1,gb|KGU28775.1|,Candida albicans P34048,657.0,0.0
+g5464.t1,gb|KAK6874446.1|,Candida tropicalis,489.0,1.04e-170
+g1664.t1,ref|XP_064776116.1|,Scheffersomyces xylosifermentans,64.7,1.25e-09
+g1158.t1,gb|KAL6450786.1|,acyl-carrier-protein,53.9,1.61e-06
+g4988.t1,gb|KAK6884886.1|,Candida tropicalis,159.0,4.40e-44
+g4584.t1,gb|RLV90878.1|,Spathaspora sp. JA1,72.8,2.83e-12
+g1119.t1,emb|CAI5759635.1|,Candida verbasci,60.1,3.47e-07
+g7709.t1,ref|XP_019330938.1|,Candida albicans SC5314,71.6,1.60e-14
+g3272.t1,ref|XP_002547696.1|,Candida tropicalis MYA-3404,357.0,2.97e-119
+g7682.t1,gb|KAG8202488.1|,Candida africana,59.7,2.77e-08
+g6752.t1,ref|XP_049181373.1|,Candida oxycetoniae,243.0,8.86e-77
+g6992.t1,gb|KAL6453447.1|,Candida maltosa Xu316,59.3,5.68e-08
+g2301.t1,gb|KAK6875979.1|,Candida tropicalis,219.0,4.35e-65
+g7025.t1,gb|EMG50256.1|,Candida maltosa Xu316,67.8,5.48e-08
+g18.t1,gb|RCK66411.1|,Candida viswanathii,111.0,1.02e-23
+g3898.t1,gb|KAK6871852.1|,Candida tropicalis,706.0,0.0
+g3891.t1,gb|EMG48757.1|,Candida maltosa Xu316,94.7,1.19e-22
+g7980.t1,gb|EMG50157.1|,Candida maltosa Xu316,167.0,1.21e-48
+g7035.t1,gb|KAL6454860.1|,Candida maltosa Xu316,232.0,1.59e-68
+g2623.t1,gb|RCK64862.1|,Candida viswanathii,87.0,1.06e-17
+g7782.t1,ref|XP_001528706.2|,Lodderomyces elongisporus,1331.0,0.0
+g2298.t1,ref|XP_020074143.1|,Hyphopichia burtonii NRRL Y-1933,87.8,1.08e-20
+g1497.t1,ref|XP_049264411.1|,Candida,73.9,1.21e-12
+g7168.t1,gb|RCK66101.1|,Candida viswanathii,87.4,1.60e-14
+g4419.t1,gb|EEQ45361.1|,Candida albicans WO-1,120.0,6.59e-29
+g5834.t1,ref|XP_049179085.1|,Candida oxycetoniae,97.4,7.36e-21
+g2174.t1,emb|CAI5756698.1|,Candida verbasci,102.0,1.96e-23
+g6936.t1,gb|KAG2734777.1|,Scheffersomyces stipitis,76.6,2.93e-15
+g1152.t1,ref|XP_002550887.1|,Candida tropicalis MYA-3404,96.7,1.00e-19
+g7222.t1,gb|KAL6449814.1|,Candida maltosa Xu316,63.5,3.48e-07
+g1674.t1,gb|KAF6070885.1|,Candida albicans,170.0,4.66e-48
+g1008.t1,gb|TNN25780.1|,Liparis tanakae,175.0,2.20e-51
+g2475.t1,emb|CUM51845.1|,Debaryomyces tyrocola,84.7,5.97e-15
+g7660.t1,ref|XP_002421612.1|,Candida dubliniensis CD36,147.0,2.85e-38
+g6961.t1,gb|RCK56653.1|,Candida viswanathii,79.7,5.93e-17
+g2816.t1,emb|CAI5760568.1|,Candida verbasci,90.5,6.90e-18
+g7190.t1,ref|XP_049263485.1|,Candida,59.3,9.92e-07
+g390.t1,gb|KAK6897689.1|,Candida tropicalis,54.7,4.05e-06
+g5998.t1,ref|XP_002420938.1|,Candida dubliniensis CD36,62.4,7.94e-09
+g6425.t1,gb|KAK6873643.1|,Candida tropicalis,124.0,2.08e-29
+g5994.t1,ref|XP_049262254.1|,Candida,56.2,1.57e-06
+g2975.t1,gb|KAG4409418.1|,Candida tropicalis,1517.0,0.0
+g1854.t1,ref|XP_068355102.1|,Tritrichomonas foetus,82.8,1.10e-17
+g6762.t1,ref|XP_051612079.1|,Candida pseudojiufengensis,842.0,0.0
+g5268.t1,ref|XP_002545274.1|,Candida tropicalis MYA-3404,168.0,1.30e-48
+g6288.t1,ref|XP_047104671.1|,Schistocerca piceifrons,216.0,4.43e-61

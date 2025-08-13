@@ -12,7 +12,8 @@ for item in "${id[@]}"; do
 
 blastp \
 -query $braker_path/$item/braker.aa \
--db $database -out "$item"_blastx.txt \
+-db $database \
+-out "$item"_blastx.txt \
 -outfmt "7 sseqid ssac qstart qend sstart send qseq evalue bitscore" \
 -evalue 1e-5 \
 -num_threads 30
