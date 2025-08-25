@@ -46,7 +46,7 @@ with output_file.open("w") as out_fasta:
 log_text = f"{'Command line: '} {'extraction.py -b'} {blastp_file} {'-p'} {fasta_file} {'-o'} {out_name}\n\
 {'Total number of queries: '} {checkAll}\n\
 {'Number of queries with some hit: '} {checkHit}\n\
-{'Number of queries with zero hits'} {checkZero}\n"
+{'Number of queries with zero hits: '} {checkZero}\n"
 
 
 with open(log_file, "w") as file:

@@ -154,6 +154,10 @@ queries_nr = set(nr_hits.keys())
 
 intersection = queries_kegg & queries_sprot & queries_nr
 
+kegg_nr = queries_kegg & queries_nr - queries_sprot
+kegg_sprot = queries_kegg & queries_sprot - queries_nr
+sprot_nr = queries_sprot & queries_nr - queries_kegg
+
 only_kegg = queries_kegg - queries_sprot - queries_nr
 only_sprot = queries_sprot - queries_kegg - queries_nr
 only_nr = queries_nr - queries_kegg - queries_sprot
@@ -313,6 +317,66 @@ write_csv(inter_csv, [
     ])
 write_fasta(inter_faa, intersection)
 
+# --- Write: KEGG / NR intersection
+keggNR_csv = f"{prefix}_keggNR-intersection.csv"
+write_csv(keggNR_csv, [
+    "query", "KO", "KEGG_taxon", 
+    "KEGG_score", "NR_subject", 
+    "NR_taxon", "NR_bitscore", "NR_evalue"
+    ], [
+        [
+            qid,
+            kegg_hits[qid]["ko"],
+            kegg_hits[qid]["taxon"],
+            kegg_hits[qid]["score"],
+            nr_hits[qid]["subject"],
+            nr_hits[qid]["taxon"],
+            nr_hits[qid]["bitscore"],
+            nr_hits[qid]["evalue"]
+        ] for qid in kegg_nr
+    ])
+
+# --- Write: SwissProt / NR intersection
+sprotNR_csv = f"{prefix}_sprotNR-intersection.csv"
+write_csv(sprotNR_csv, [
+    "SwissProt_subject", "SwissProt_taxon", 
+    "SwissProt_bitscore", "SwissProt_evalue", "NR_subject", 
+    "NR_taxon", "NR_bitscore", "NR_evalue"
+    ], [
+        [
+            qid,
+            sprot_hits[qid]["subject"],
+            sprot_hits[qid]["taxon"],
+            sprot_hits[qid]["bitscore"],
+            sprot_hits[qid]["evalue"],
+            nr_hits[qid]["subject"],
+            nr_hits[qid]["taxon"],
+            nr_hits[qid]["bitscore"],
+            nr_hits[qid]["evalue"]
+        ] for qid in sprot_nr
+    ])
+
+# --- Write: SwissProt / KEGG
+sprotkegg_csv = f"{prefix}_sprotkegg-intersection.csv"
+
+write_csv(inter_csv, [
+    "query", "KO", "KEGG_taxon", 
+    "KEGG_score", "SwissProt_subject", "SwissProt_taxon", 
+    "SwissProt_bitscore", "SwissProt_evalue"
+    ], [
+        [
+            qid,
+            kegg_hits[qid]["ko"],
+            kegg_hits[qid]["taxon"],
+            kegg_hits[qid]["score"],
+            sprot_hits[qid]["subject"],
+            sprot_hits[qid]["taxon"],
+            sprot_hits[qid]["bitscore"],
+            sprot_hits[qid]["evalue"],
+        ] for qid in kegg_sprot
+    ])
+
+
 # --- STEP 10: Write No Hits ---
 nohit_txt = f"{prefix}_nohits.txt"
 nohit_faa = f"{prefix}_nohits.faa"
@@ -321,8 +385,9 @@ with open(nohit_txt, "w") as f:
     f.write("\n".join(sorted(no_hits)))
 write_fasta(nohit_faa, no_hits)
 
+
 # --- STEP 11: Write log file ---
-log_text = f"{'Command line: '} {'blastp-kegg_intersec.py'} {"--blast"} \
+log_text = f"{'Command line: '} {'blastp-kegg_intersec.py'} {'--blast'} \
 {sprot_file} {'--kegg'} {kegg_file} {'--fasta'} {fasta_file} \
 {'--out'} {prefix}\n\
 \n\
@@ -336,22 +401,22 @@ log_text = f"{'Command line: '} {'blastp-kegg_intersec.py'} {"--blast"} \
 {'Total NR queries .........................: '} {check_nr}\n\
 {'NR queries (with hit) ....................: '} {check_filter_nr}\n\
 {'Queries only in NR .......................: '} {check_onlynr}\n\
-{'Queries shared queries ...................: '} {check_intersec}\n\
+{'Shared queries ...................: '} {check_intersec}\n\
 {'Queries with no identification ...........: '} {check_noHits}\n\
 {'=========================================== '}\n\
 \n\
 \n\
 \n\
 {'=== List of queries only found against KEGG ==='}\n\
-{queries_kegg}\n\
+{only_kegg}n\
 \n\
 \n\
 {'=== List of queries only found against SwissProt ==='}\n\
-{queries_sprot}\n\
+{only_sprot}\n\
 \n\
 \n\
 {'=== List of queries only found against NR ==='}\n\
-{queries_nr}\n"
+{only_nr}\n"
 
 wrapped_text = "\n".join(textwrap.fill(line, width=150) for line in log_text.splitlines())
 with open(log_file, "w", encoding="utf-8") as file:
