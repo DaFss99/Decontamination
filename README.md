@@ -1,4 +1,4 @@
-# Genome Analysis Pipelines
+# Contamination Detection Workflow
 
 **Decontamination** – A multi-step workflow for detecting possible contamination in genome assemblies based on protein annotations.
 
