@@ -339,7 +339,7 @@ write_csv(keggNR_csv, [
 # --- Write: SwissProt / NR intersection
 sprotNR_csv = f"{prefix}_sprotNR-intersection.csv"
 write_csv(sprotNR_csv, [
-    "SwissProt_subject", "SwissProt_taxon", 
+    "query", "SwissProt_subject", "SwissProt_taxon", 
     "SwissProt_bitscore", "SwissProt_evalue", "NR_subject", 
     "NR_taxon", "NR_bitscore", "NR_evalue"
     ], [

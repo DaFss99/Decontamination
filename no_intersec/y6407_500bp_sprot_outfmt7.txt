@@ -1,0 +1,1214 @@
+# DIAMOND blastp (outfmt7-like)
+# Fields: subject id, q. start, q. end, s. start, s. end, query seq, evalue, bit score, subject title
+# Query: g1632.t1
+# 0 hits found
+# Query: g1644.t1
+# 0 hits found
+# Query: g1654.t1
+# 0 hits found
+# Query: g1690.t1
+# 0 hits found
+# Query: g1711.t1
+# 0 hits found
+# Query: g1719.t1
+# 0 hits found
+# Query: g1726.t1
+# 0 hits found
+# Query: g1739.t1
+# 0 hits found
+# Query: g1749.t1
+# 0 hits found
+# Query: g1751.t1
+# 0 hits found
+# Query: g1786.t1
+# 0 hits found
+# Query: g1793.t1
+# 0 hits found
+# Query: g1823.t1
+# 0 hits found
+# Query: g1828.t1
+# 0 hits found
+# Query: g1852.t1
+# 0 hits found
+# Query: g1871.t1
+# 0 hits found
+# Query: g1879.t1
+# 0 hits found
+# Query: g1880.t1
+# 1 hits found
+sp|P43074|WHS11_CANAW	1	65	1	65	MSDAGRKDISDKISSAVKPDSQKSTPEQFKDKVTDKVDNAVGDSTSDNNKSILQQASDAVFGEKK	2.98e-24	88.6	sp|P43074|WHS11_CANAW White colony protein WHS11 OS=Candida albicans (strain WO-1) OX=294748 GN=WHS11 PE=2 SV=1
+# Query: g1882.t1
+# 0 hits found
+# Query: g1882.t2
+# 0 hits found
+# Query: g1915.t1
+# 0 hits found
+# Query: g1928.t1
+# 0 hits found
+# Query: g1933.t1
+# 5 hits found
+sp|Q9ERH8|S28A3_MOUSE	153	595	187	627	WQRLIAGAAVTIAVVLLGTFVPTETEYSKRADRAISFFGCLVAIFLLWVTSKNPRHVQWNTVIGGMLMQFIVALFVLRTKCGYDVFNFISTLARELLGFAKNGVAFLLSDDIANMGNFFFSVLPSVAFFVAFVHIWYYYGVIQWAIRKFAYFFFWSLRVSGAEAITAAASPFIGIGESAILIKDLMPYLTKAELHQIMTSGFSTISGAVLVGYIGLGLNPQALVSSCVMSIPASLAVSKLRYPEMEDPISSGKLIMPTKDKAGNEQEDKLRPRNVLQAFSDGATLGLRIAGTMMIQVMCIIALVALINGLLTWFGNYWNIPGLTLELMLSYLFYPLGFLLGTPRNEILHVSKLIAYKFIQNEYVAYNLLMTTAPYNEMSKRGTLIATYACCGFANLGSLGITLGVLNTLTNHSRSKDITSSIMSALFCGGIATLMSAAIAGMV	7.31e-84	280	sp|Q9ERH8|S28A3_MOUSE Solute carrier family 28 member 3 OS=Mus musculus OX=10090 GN=Slc28a3 PE=2 SV=1
+sp|Q8VIH3|S28A3_RAT	153	603	189	637	WQRLIAGAAVTIAVVLLGTFVPTETEYSKRADRAISFFGCLVAIFLLWVTSKNPRHVQWNTVIGGMLMQFIVALFVLRTKCGYDVFNFISTLARELLGFAKNGVAFLLSDDIANMGNFFFSVLPSVAFFVAFVHIWYYYGVIQWAIRKFAYFFFWSLRVSGAEAITAAASPFIGIGESAILIKDLMPYLTKAELHQIMTSGFSTISGAVLVGYIGLGLNPQALVSSCVMSIPASLAVSKLRYPEMEDPISSGKLIMPTKDKAGNEQEDKLRPRNVLQAFSDGATLGLRIAGTMMIQVMCIIALVALINGLLTWFGNYWNIPGLTLELMLSYLFYPLGFLLGTPRNEILHVSKLIAYKFIQNEYVAYNLLMTTAPYNEMSKRGTLIATYACCGFANLGSLGITLGVLNTLTNHSRSKDITSSIMSALFCGGIATLMSAAIAGMVMHDLGAFN	2.90e-83	278	sp|Q8VIH3|S28A3_RAT Solute carrier family 28 member 3 OS=Rattus norvegicus OX=10116 GN=Slc28a3 PE=2 SV=1
+sp|Q9HAS3|S28A3_HUMAN	153	595	172	612	WQRLIAGAAVTIAVVLLGTFVPTETEYSKRADRAISFFGCLVAIFLLWVTSKNPRHVQWNTVIGGMLMQFIVALFVLRTKCGYDVFNFISTLARELLGFAKNGVAFLLSDDIANMGNFFFSVLPSVAFFVAFVHIWYYYGVIQWAIRKFAYFFFWSLRVSGAEAITAAASPFIGIGESAILIKDLMPYLTKAELHQIMTSGFSTISGAVLVGYIGLGLNPQALVSSCVMSIPASLAVSKLRYPEMEDPISSGKLIMPTKDKAGNEQEDKLRPRNVLQAFSDGATLGLRIAGTMMIQVMCIIALVALINGLLTWFGNYWNIPGLTLELMLSYLFYPLGFLLGTPRNEILHVSKLIAYKFIQNEYVAYNLLMTTAPYNEMSKRGTLIATYACCGFANLGSLGITLGVLNTLTNHSRSKDITSSIMSALFCGGIATLMSAAIAGMV	9.02e-80	268	sp|Q9HAS3|S28A3_HUMAN Solute carrier family 28 member 3 OS=Homo sapiens OX=9606 GN=SLC28A3 PE=1 SV=1
+sp|Q9UA35|S28A3_EPTST	147	595	159	607	KLLPQRWQRLIAGAAVTIAVVLLGTFVPTETEYSKRADRAISFFGCLVAIFLLWVTSKNPRHVQWNTVIGGMLMQFIVALFVLRTKCGYDVFNFISTLARELLGFAKNGVAFLLSDDIANMGNFFFSVLPSVAFFVAFVHIWYYYGVIQWAIRKFAYFFFWSLRVSGAEAITAAASPFIGIGESAILIKDLMPYLTKAELHQIMTSGFSTISGAVLVGYIGLGLNPQALVSSCVMSIPASLAVSKLRYPEMEDPISSGKLIMPTKDKAGNEQEDKLRPRNVLQAFSDGATLGLRIAGTMMIQVMCIIALVALINGLLTWFGNYWNIPGLTLELMLSYLFYPLGFLLGTPRNEILHVSKLIAYKFIQNEYVAYNLLMTTAPYNEMSKRGTLIATYACCGFANLGSLGITLGVLNTLTNHSRSKDITSSIMSALFCGGIATLMSAAIAGMV	1.12e-77	263	sp|Q9UA35|S28A3_EPTST Solute carrier family 28 member 3 OS=Eptatretus stoutii OX=7765 GN=SLC28A3 PE=2 SV=1
+sp|Q9MZT2|S28A1_RABIT	154	601	148	591	QRLIAGAAVTIAVVLLGTFVPTETEYSKRADRAISFFGCLVAIFLLWVTSKNPRHVQWNTVIGGMLMQFIVALFVLRTKCGYDVFNFISTLARELLGFAKNGVAFLLSDDIANMGNFFFSVLPSVAFFVAFVHIWYYYGVIQWAIRKFAYFFFWSLRVSGAEAITAAASPFIGIGESAILIKDLMPYLTKAELHQIMTSGFSTISGAVLVGYIGLGLNPQALVSSCVMSIPASLAVSKLRYPEMEDPISSGKLIMPTKDKAGNEQEDKLRPRNVLQAFSDGATLGLRIAGTMMIQVMCIIALVALINGLLTWFGNYWNIPGLTLELMLSYLFYPLGFLLGTPRNEILHVSKLIAYKFIQNEYVAYNLLMTTAPYNEMSKRGTLIATYACCGFANLGSLGITLGVLNTLTNHSRSKDITSSIMSALFCGGIATLMSAAIAGMVMHDLGA	9.55e-77	259	sp|Q9MZT2|S28A1_RABIT Sodium/nucleoside cotransporter 1 OS=Oryctolagus cuniculus OX=9986 GN=SLC28A1 PE=2 SV=1
+# Query: g1942.t1
+# 5 hits found
+sp|Q6BPV1|COX9_DEBHA	1	60	1	60	MALAPITGTLKRKIFTDITIAFTAGFVLAFGYWNFEHQPIVAKREAYYAQLQKQKEAEEA	8.91e-24	87.0	sp|Q6BPV1|COX9_DEBHA Cytochrome c oxidase subunit 9, mitochondrial OS=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) OX=284592 GN=COX9 PE=3 SV=3
+sp|Q6FWE8|COX9_CANGA	2	58	3	59	ALAPITGTLKRKIFTDITIAFTAGFVLAFGYWNFEHQPIVAKREAYYAQLQKQKEAE	2.04e-13	60.8	sp|Q6FWE8|COX9_CANGA Cytochrome c oxidase subunit 9, mitochondrial OS=Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) OX=284593 GN=COX9 PE=3 SV=3
+sp|Q6CWK9|COX9_KLULA	2	58	3	59	ALAPITGTLKRKIFTDITIAFTAGFVLAFGYWNFEHQPIVAKREAYYAQLQKQKEAE	2.90e-13	60.5	sp|Q6CWK9|COX9_KLULA Cytochrome c oxidase subunit 9, mitochondrial OS=Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) OX=284590 GN=COX9 PE=3 SV=3
+sp|Q757F0|COX9_EREGS	2	59	3	60	ALAPITGTLKRKIFTDITIAFTAGFVLAFGYWNFEHQPIVAKREAYYAQLQKQKEAEE	1.38e-11	56.2	sp|Q757F0|COX9_EREGS Cytochrome c oxidase subunit 9, mitochondrial OS=Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) OX=284811 GN=COX9 PE=3 SV=3
+sp|P07255|COX9_YEAST	1	58	1	58	MALAPITGTLKRKIFTDITIAFTAGFVLAFGYWNFEHQPIVAKREAYYAQLQKQKEAE	2.22e-10	53.1	sp|P07255|COX9_YEAST Cytochrome c oxidase subunit 9, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=COX9 PE=1 SV=2
+# Query: g1945.t1
+# 0 hits found
+# Query: g1947.t1
+# 0 hits found
+# Query: g2008.t1
+# 0 hits found
+# Query: g2071.t1
+# 0 hits found
+# Query: g2081.t1
+# 0 hits found
+# Query: g2083.t1
+# 0 hits found
+# Query: g2093.t1
+# 0 hits found
+# Query: g2100.t1
+# 3 hits found
+sp|Q5A5U6|PGA30_CANAL	1	167	1	174	MKFTAFASILALSSSALAAISTVKLTAKSDNDEVNGKGLSSIHEGAGINYVFLGLNSEELLYDSDAKNLFIEVQANIVFRQYFTLDNGILQVSVAGTPAQVTIGDDGSVTFPGSDSLVAAKNINDPYRYSQTSFAIVSADGAPEGSIPLTLVAQITGTETEATTAAP	1.67e-39	140	sp|Q5A5U6|PGA30_CANAL Cell wall protein PGA30 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=PGA30 PE=1 SV=1
+sp|Q5A5U9|PGA31_CANAL	1	165	1	165	MKFTAFASILALSSSALAAISTVKLTAKSDNDEVNGKGLSSIHEGAGINYVFLGLNSEELLYDSDAKNLFIEVQANIVFRQYFTLDNGILQVSVAGTPAQVTIGDDGSVTFPGSDSLVAAKNINDPYRYSQTSFAIVSADGAPEGSIPLTLVAQITGTETEATTA	3.20e-36	132	sp|Q5A5U9|PGA31_CANAL Cell wall protein PGA31 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=PGA31 PE=1 SV=2
+sp|Q5A5U4|RHD3_CANAL	1	164	1	160	MKFTAFASILALSSSALAAISTVKLTAKSDNDEVNGKGLSSIHEGAGINYVFLGLNSEELLYDSDAKNLFIEVQANIVFRQYFTLDNGILQVSVAGTPAQVTIGDDGSVTFPGSDSLVAAKNINDPYRYSQTSFAIVSADGAPEGSIPLTLVAQITGTETEATT	6.53e-34	123	sp|Q5A5U4|RHD3_CANAL Cell wall protein RHD3 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=RHD3 PE=1 SV=1
+# Query: g2101.t1
+# 0 hits found
+# Query: g2105.t1
+# 0 hits found
+# Query: g2959.t1
+# 1 hits found
+sp|Q59N20|MSS11_CANAL	2	106	10	121	SRNKQQKTMAKVSDVAAGDSQQLLLAHLYKYLLANGMAESAQALLSECSNTIPKASTGEFALETTDDTFLYEWWCLLWSMQSSINXXXXXXXXXSFLTPQQQAIL	5.07e-19	94.0	sp|Q59N20|MSS11_CANAL Transcription activator MSS11 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=MSS11 PE=1 SV=2
+# Query: g2976.t1
+# 0 hits found
+# Query: g2978.t1
+# 0 hits found
+# Query: g2980.t1
+# 0 hits found
+# Query: g2990.t1
+# 0 hits found
+# Query: g3010.t1
+# 0 hits found
+# Query: g3010.t2
+# 0 hits found
+# Query: g3011.t1
+# 0 hits found
+# Query: g3030.t1
+# 0 hits found
+# Query: g3054.t1
+# 0 hits found
+# Query: g3072.t1
+# 0 hits found
+# Query: g3074.t1
+# 0 hits found
+# Query: g3076.t1
+# 0 hits found
+# Query: g3084.t1
+# 0 hits found
+# Query: g3116.t1
+# 0 hits found
+# Query: g3183.t1
+# 0 hits found
+# Query: g3186.t1
+# 0 hits found
+# Query: g3210.t1
+# 0 hits found
+# Query: g3213.t1
+# 0 hits found
+# Query: g3226.t1
+# 0 hits found
+# Query: g3242.t1
+# 0 hits found
+# Query: g3261.t1
+# 0 hits found
+# Query: g3262.t1
+# 0 hits found
+# Query: g3267.t1
+# 0 hits found
+# Query: g3269.t1
+# 0 hits found
+# Query: g3270.t1
+# 0 hits found
+# Query: g3277.t1
+# 0 hits found
+# Query: g3337.t1
+# 0 hits found
+# Query: g3355.t1
+# 0 hits found
+# Query: g3934.t1
+# 0 hits found
+# Query: g3973.t1
+# 0 hits found
+# Query: g4047.t1
+# 0 hits found
+# Query: g4061.t1
+# 0 hits found
+# Query: g4087.t1
+# 0 hits found
+# Query: g4093.t1
+# 0 hits found
+# Query: g4493.t1
+# 0 hits found
+# Query: g4506.t1
+# 0 hits found
+# Query: g4513.t1
+# 0 hits found
+# Query: g4526.t1
+# 0 hits found
+# Query: g4550.t1
+# 1 hits found
+sp|Q5A1A9|PGA43_CANAL	52	185	30	160	EYGTYTNPNPRPLHKCDAHDLVKLSGCCNDVLAKLDECHADDLACECCALQSIPQECYHLCPGNPSTNFLAVLMSDCVEMSEINACALPFKKDDSALPVLGKERKKPAGAAKTDAKADTDTDASAILLSKVQTK	1.23e-48	164	sp|Q5A1A9|PGA43_CANAL Predicted GPI-anchored protein 43 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=PGA43 PE=1 SV=1
+# Query: g4556.t1
+# 0 hits found
+# Query: g4574.t1
+# 0 hits found
+# Query: g4583.t1
+# 0 hits found
+# Query: g4585.t1
+# 0 hits found
+# Query: g4610.t1
+# 0 hits found
+# Query: g4661.t1
+# 0 hits found
+# Query: g4965.t1
+# 0 hits found
+# Query: g4966.t1
+# 0 hits found
+# Query: g4991.t1
+# 0 hits found
+# Query: g4999.t1
+# 0 hits found
+# Query: g5017.t1
+# 0 hits found
+# Query: g5041.t1
+# 0 hits found
+# Query: g5048.t1
+# 0 hits found
+# Query: g5058.t1
+# 0 hits found
+# Query: g5058.t2
+# 0 hits found
+# Query: g5083.t1
+# 0 hits found
+# Query: g5091.t1
+# 0 hits found
+# Query: g5099.t1
+# 0 hits found
+# Query: g5108.t1
+# 0 hits found
+# Query: g5123.t1
+# 0 hits found
+# Query: g5127.t1
+# 0 hits found
+# Query: g5395.t1
+# 0 hits found
+# Query: g5425.t1
+# 0 hits found
+# Query: g5439.t1
+# 0 hits found
+# Query: g5443.t1
+# 0 hits found
+# Query: g5456.t1
+# 0 hits found
+# Query: g5473.t1
+# 0 hits found
+# Query: g5505.t1
+# 0 hits found
+# Query: g5750.t1
+# 0 hits found
+# Query: g5759.t1
+# 0 hits found
+# Query: g5759.t2
+# 0 hits found
+# Query: g5775.t1
+# 0 hits found
+# Query: g5779.t1
+# 0 hits found
+# Query: g5797.t1
+# 0 hits found
+# Query: g5832.t1
+# 0 hits found
+# Query: g5843.t1
+# 0 hits found
+# Query: g5845.t1
+# 0 hits found
+# Query: g6035.t1
+# 0 hits found
+# Query: g6052.t1
+# 0 hits found
+# Query: g6063.t1
+# 0 hits found
+# Query: g6084.t1
+# 0 hits found
+# Query: g6088.t1
+# 0 hits found
+# Query: g6107.t1
+# 0 hits found
+# Query: g6116.t1
+# 0 hits found
+# Query: g6138.t1
+# 0 hits found
+# Query: g6338.t1
+# 0 hits found
+# Query: g6363.t1
+# 0 hits found
+# Query: g6366.t1
+# 0 hits found
+# Query: g6369.t1
+# 0 hits found
+# Query: g6386.t1
+# 0 hits found
+# Query: g6403.t1
+# 0 hits found
+# Query: g6408.t1
+# 0 hits found
+# Query: g6418.t1
+# 0 hits found
+# Query: g6426.t1
+# 0 hits found
+# Query: g160.t1
+# 0 hits found
+# Query: g175.t1
+# 0 hits found
+# Query: g185.t1
+# 0 hits found
+# Query: g204.t1
+# 0 hits found
+# Query: g209.t1
+# 0 hits found
+# Query: g210.t1
+# 0 hits found
+# Query: g233.t1
+# 0 hits found
+# Query: g258.t1
+# 0 hits found
+# Query: g272.t1
+# 0 hits found
+# Query: g494.t1
+# 0 hits found
+# Query: g686.t1
+# 0 hits found
+# Query: g699.t1
+# 0 hits found
+# Query: g707.t1
+# 0 hits found
+# Query: g717.t1
+# 0 hits found
+# Query: g855.t1
+# 0 hits found
+# Query: g856.t2
+# 0 hits found
+# Query: g883.t1
+# 0 hits found
+# Query: g907.t1
+# 0 hits found
+# Query: g908.t1
+# 0 hits found
+# Query: g923.t1
+# 0 hits found
+# Query: g1032.t1
+# 0 hits found
+# Query: g1039.t1
+# 0 hits found
+# Query: g1056.t1
+# 0 hits found
+# Query: g1057.t1
+# 0 hits found
+# Query: g1065.t1
+# 0 hits found
+# Query: g1068.t1
+# 0 hits found
+# Query: g1089.t1
+# 0 hits found
+# Query: g1091.t1
+# 0 hits found
+# Query: g1095.t1
+# 0 hits found
+# Query: g1096.t1
+# 0 hits found
+# Query: g1098.t1
+# 0 hits found
+# Query: g1103.t1
+# 0 hits found
+# Query: g1141.t1
+# 0 hits found
+# Query: g1150.t1
+# 0 hits found
+# Query: g1153.t1
+# 0 hits found
+# Query: g1158.t1
+# 0 hits found
+# Query: g1199.t1
+# 0 hits found
+# Query: g1214.t1
+# 0 hits found
+# Query: g1218.t1
+# 0 hits found
+# Query: g1224.t1
+# 0 hits found
+# Query: g1275.t1
+# 0 hits found
+# Query: g1278.t1
+# 0 hits found
+# Query: g1279.t1
+# 0 hits found
+# Query: g1298.t1
+# 0 hits found
+# Query: g1379.t1
+# 0 hits found
+# Query: g1400.t1
+# 0 hits found
+# Query: g1411.t1
+# 0 hits found
+# Query: g1417.t1
+# 0 hits found
+# Query: g1468.t2
+# 0 hits found
+# Query: g1476.t1
+# 0 hits found
+# Query: g1483.t1
+# 0 hits found
+# Query: g1503.t1
+# 0 hits found
+# Query: g1532.t1
+# 0 hits found
+# Query: g1559.t1
+# 0 hits found
+# Query: g1568.t1
+# 0 hits found
+# Query: g1585.t1
+# 0 hits found
+# Query: g1599.t1
+# 0 hits found
+# Query: g1602.t1
+# 0 hits found
+# Query: g1606.t1
+# 0 hits found
+# Query: g2160.t1
+# 0 hits found
+# Query: g2171.t1
+# 0 hits found
+# Query: g2176.t1
+# 0 hits found
+# Query: g2178.t1
+# 1 hits found
+sp|P39103|COX14_YEAST	12	50	2	40	SQLPFYVRATDVVHRMTILGLVGGSLFVVGSVAFNIFAN	8.01e-07	45.1	sp|P39103|COX14_YEAST Cytochrome c oxidase assembly protein COX14 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=COX14 PE=1 SV=1
+# Query: g2239.t1
+# 0 hits found
+# Query: g2247.t1
+# 0 hits found
+# Query: g2276.t1
+# 0 hits found
+# Query: g2338.t1
+# 0 hits found
+# Query: g2354.t1
+# 0 hits found
+# Query: g2370.t1
+# 0 hits found
+# Query: g2377.t1
+# 0 hits found
+# Query: g2385.t1
+# 0 hits found
+# Query: g2410.t1
+# 0 hits found
+# Query: g2415.t1
+# 0 hits found
+# Query: g2436.t1
+# 0 hits found
+# Query: g2438.t1
+# 0 hits found
+# Query: g2453.t1
+# 0 hits found
+# Query: g2501.t1
+# 0 hits found
+# Query: g2518.t1
+# 0 hits found
+# Query: g2528.t1
+# 0 hits found
+# Query: g2536.t1
+# 0 hits found
+# Query: g2541.t1
+# 0 hits found
+# Query: g2545.t1
+# 0 hits found
+# Query: g2552.t1
+# 0 hits found
+# Query: g2608.t1
+# 0 hits found
+# Query: g2613.t1
+# 0 hits found
+# Query: g2681.t1
+# 0 hits found
+# Query: g2685.t1
+# 0 hits found
+# Query: g2688.t1
+# 0 hits found
+# Query: g2698.t1
+# 0 hits found
+# Query: g2707.t1
+# 0 hits found
+# Query: g2708.t1
+# 0 hits found
+# Query: g2715.t1
+# 0 hits found
+# Query: g2747.t1
+# 0 hits found
+# Query: g2757.t1
+# 0 hits found
+# Query: g2789.t1
+# 0 hits found
+# Query: g2793.t1
+# 0 hits found
+# Query: g2795.t1
+# 0 hits found
+# Query: g2839.t1
+# 0 hits found
+# Query: g2862.t1
+# 0 hits found
+# Query: g2863.t1
+# 0 hits found
+# Query: g2905.t1
+# 0 hits found
+# Query: g2912.t1
+# 0 hits found
+# Query: g2937.t1
+# 0 hits found
+# Query: g2947.t1
+# 0 hits found
+# Query: g2958.t1
+# 0 hits found
+# Query: g3376.t1
+# 0 hits found
+# Query: g3379.t1
+# 0 hits found
+# Query: g3397.t1
+# 0 hits found
+# Query: g3408.t1
+# 0 hits found
+# Query: g3422.t1
+# 0 hits found
+# Query: g3429.t1
+# 0 hits found
+# Query: g3430.t1
+# 0 hits found
+# Query: g3473.t1
+# 0 hits found
+# Query: g3479.t1
+# 0 hits found
+# Query: g3492.t1
+# 0 hits found
+# Query: g3550.t1
+# 1 hits found
+sp|Q08119|ESC8_YEAST	311	612	131	392	GPLVALHYELYDDNVTDLYATSKHEKVALGYPVVPSPYASDIVYILSFLLKFKDIIPTKLGPAHFEDGLSLPVFVGAPSSRYVSRKGASTKTETDYDPEYVSPEMESLFLKLLALVLNRKKEVQSHSKAIAELKSHTVWFGLPNEWKERQENKDTAPKDKKRENSDAVDPSAPVFPAPPVPKEEYTVTFNPFYDSDFEKHGLKGLKTPLDRLVLLRTLVQWALAHSEAVRSAIALSVQAQDIPGDKETYYAPRSVLYGTKNAQDTKAEAEFKLAKRKEDDIKYVDPTSDPTLHPLNLRLNEL	3.06e-06	54.7	sp|Q08119|ESC8_YEAST Protein ESC8 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ESC8 PE=1 SV=1
+# Query: g3620.t1
+# 0 hits found
+# Query: g3624.t1
+# 0 hits found
+# Query: g3630.t1
+# 0 hits found
+# Query: g3636.t1
+# 0 hits found
+# Query: g3637.t1
+# 0 hits found
+# Query: g3643.t1
+# 0 hits found
+# Query: g3666.t1
+# 0 hits found
+# Query: g3688.t1
+# 0 hits found
+# Query: g3692.t1
+# 0 hits found
+# Query: g3696.t1
+# 0 hits found
+# Query: g3699.t1
+# 0 hits found
+# Query: g3700.t1
+# 0 hits found
+# Query: g3707.t1
+# 0 hits found
+# Query: g3728.t1
+# 0 hits found
+# Query: g3748.t1
+# 0 hits found
+# Query: g3752.t1
+# 0 hits found
+# Query: g3768.t1
+# 0 hits found
+# Query: g3770.t1
+# 0 hits found
+# Query: g3774.t1
+# 0 hits found
+# Query: g3780.t1
+# 0 hits found
+# Query: g3800.t1
+# 0 hits found
+# Query: g3814.t1
+# 0 hits found
+# Query: g3823.t1
+# 0 hits found
+# Query: g3824.t1
+# 0 hits found
+# Query: g3877.t1
+# 0 hits found
+# Query: g3910.t1
+# 0 hits found
+# Query: g3920.t1
+# 0 hits found
+# Query: g4122.t1
+# 0 hits found
+# Query: g4128.t1
+# 0 hits found
+# Query: g4152.t2
+# 0 hits found
+# Query: g4165.t1
+# 0 hits found
+# Query: g4170.t1
+# 0 hits found
+# Query: g4229.t1
+# 0 hits found
+# Query: g4250.t1
+# 0 hits found
+# Query: g4262.t1
+# 0 hits found
+# Query: g4276.t1
+# 0 hits found
+# Query: g4276.t2
+# 0 hits found
+# Query: g4312.t1
+# 0 hits found
+# Query: g4335.t1
+# 0 hits found
+# Query: g4340.t1
+# 0 hits found
+# Query: g4355.t1
+# 0 hits found
+# Query: g4358.t1
+# 0 hits found
+# Query: g4373.t1
+# 0 hits found
+# Query: g4380.t1
+# 0 hits found
+# Query: g4389.t1
+# 0 hits found
+# Query: g4406.t1
+# 0 hits found
+# Query: g4416.t1
+# 0 hits found
+# Query: g4432.t1
+# 0 hits found
+# Query: g4453.t1
+# 0 hits found
+# Query: g4491.t1
+# 0 hits found
+# Query: g4677.t1
+# 0 hits found
+# Query: g4708.t1
+# 0 hits found
+# Query: g4724.t1
+# 0 hits found
+# Query: g4739.t1
+# 0 hits found
+# Query: g4741.t1
+# 0 hits found
+# Query: g4784.t1
+# 0 hits found
+# Query: g4808.t1
+# 0 hits found
+# Query: g4812.t1
+# 0 hits found
+# Query: g4832.t1
+# 0 hits found
+# Query: g4844.t1
+# 0 hits found
+# Query: g4846.t1
+# 0 hits found
+# Query: g4866.t1
+# 0 hits found
+# Query: g4911.t1
+# 0 hits found
+# Query: g4912.t1
+# 0 hits found
+# Query: g4941.t1
+# 0 hits found
+# Query: g4961.t1
+# 0 hits found
+# Query: g4963.t1
+# 0 hits found
+# Query: g5180.t1
+# 0 hits found
+# Query: g5206.t1
+# 0 hits found
+# Query: g5233.t1
+# 0 hits found
+# Query: g5275.t1
+# 1 hits found
+sp|Q6BMF7|AIM3_DEBHA	1	46	1	46	MSFWDNNKDTFKSVGKATAKGIGRGSKAVGQAGYRTYKKNEAKRNG	7.18e-15	72.4	sp|Q6BMF7|AIM3_DEBHA Altered inheritance of mitochondria protein 3 OS=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) OX=284592 GN=AIM3 PE=3 SV=2
+# Query: g5286.t1
+# 0 hits found
+# Query: g5302.t1
+# 0 hits found
+# Query: g5348.t1
+# 0 hits found
+# Query: g5520.t1
+# 0 hits found
+# Query: g5522.t1
+# 0 hits found
+# Query: g5547.t1
+# 0 hits found
+# Query: g5552.t1
+# 0 hits found
+# Query: g5570.t1
+# 0 hits found
+# Query: g5593.t1
+# 0 hits found
+# Query: g5603.t1
+# 5 hits found
+sp|Q59XL0|IFF6_CANAL	1	229	1	227	MLLKQFYLGFLLFVAHLVDAQTVTQNTITRGTINLEIGDITITNGAYWSIINNAVSAFVGNLQVDKGSGFFISSTNPLIGLEVTLLGLLNSITNDGIISFNALLSLAGTTYNLIGLSYTNNGEMYLGADGSVLSPIMSITAANWNNNGLLVFYQNKRSSANVFLGTALGTINNNGQICFFNTVYQQTTLIKGTGCITSDEDSTIYIANSLLSVDTTQTFYLADSQSSII	1.21e-75	250	sp|Q59XL0|IFF6_CANAL Cell wall protein IFF6 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=IFF6 PE=1 SV=2
+sp|Q5A5M7|RBR3_CANAL	4	229	6	228	KQFYLGFLLFVAHLVDAQTVTQNTITRGTINLEIGDITITNGAYWSIINNAVSAFVGNLQVDKGSGFFISSTNPLIGLEVTLLGLLNSITNDGIISFNALLSLAGTTYNLIGLSYTNNGEMYLGADGSVLSPIMSITAANWNNNGLLVFYQNKRSSANVFLGTALGTINNNGQICFFNTVYQQTTLIKGTGCITSDEDSTIYIANSLLSVDTTQTFYLADSQSSII	5.32e-75	249	sp|Q5A5M7|RBR3_CANAL Cell wall protein RBR3 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=RBR3 PE=1 SV=3
+sp|Q59XA7|HYR3_CANAL	20	229	20	228	AQTVTQNTITRGTINLEIGDITITNGAYWSIINNAVSAFVGNLQVDKGSGFFISSTNPLIGLEVTLLGLLNSITNDGIISFNALLSLAGTTYNLIGLSYTNNGEMYLGADGSVLSPIMSITAANWNNNGLLVFYQNKRSSANVFLGTALGTINNNGQICFFNTVYQQTTLIKGTGCITSDEDSTIYIANSLLSVDTTQTFYLADSQSSII	1.18e-73	245	sp|Q59XA7|HYR3_CANAL Hyphally regulated cell wall protein 3 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=HYR3 PE=1 SV=1
+sp|Q5A6U1|IFF9_CANAL	14	229	14	228	VAHLVDAQTVTQNTITRGTINLEIGDITITNGAYWSIINNAVSAFVGNLQVDKGSGFFISSTNPLIGLEVTLLGLLNSITNDGIISFNALLSLAGTTYNLIGLSYTNNGEMYLGADGSVLSPIMSITAANWNNNGLLVFYQNKRSSANVFLGTALGTINNNGQICFFNTVYQQTTLIKGTGCITSDEDSTIYIANSLLSVDTTQTFYLADSQSSII	3.53e-65	220	sp|Q5A6U1|IFF9_CANAL Cell wall protein IFF9 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=IFF9 PE=1 SV=2
+sp|Q5A029|IFF3_CANAL	14	229	14	228	VAHLVDAQTVTQNTITRGTINLEIGDITITNGAYWSIINNAVSAFVGNLQVDKGSGFFISSTNPLIGLEVTLLGLLNSITNDGIISFNALLSLAGTTYNLIGLSYTNNGEMYLGADGSVLSPIMSITAANWNNNGLLVFYQNKRSSANVFLGTALGTINNNGQICFFNTVYQQTTLIKGTGCITSDEDSTIYIANSLLSVDTTQTFYLADSQSSII	8.83e-64	216	sp|Q5A029|IFF3_CANAL Cell wall protein IFF3 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=IFF3 PE=1 SV=2
+# Query: g5654.t1
+# 0 hits found
+# Query: g5711.t1
+# 0 hits found
+# Query: g5713.t1
+# 0 hits found
+# Query: g5714.t1
+# 0 hits found
+# Query: g5715.t1
+# 0 hits found
+# Query: g5724.t1
+# 0 hits found
+# Query: g5949.t1
+# 0 hits found
+# Query: g5955.t1
+# 0 hits found
+# Query: g5983.t1
+# 0 hits found
+# Query: g6003.t1
+# 0 hits found
+# Query: g6022.t1
+# 0 hits found
+# Query: g6024.t1
+# 0 hits found
+# Query: g6030.t1
+# 0 hits found
+# Query: g6161.t1
+# 0 hits found
+# Query: g6184.t1
+# 0 hits found
+# Query: g6236.t1
+# 0 hits found
+# Query: g6243.t1
+# 0 hits found
+# Query: g6315.t1
+# 0 hits found
+# Query: g45.t1
+# 0 hits found
+# Query: g109.t1
+# 0 hits found
+# Query: g123.t1
+# 0 hits found
+# Query: g158.t1
+# 0 hits found
+# Query: g283.t1
+# 0 hits found
+# Query: g297.t1
+# 0 hits found
+# Query: g298.t1
+# 0 hits found
+# Query: g299.t1
+# 0 hits found
+# Query: g316.t1
+# 0 hits found
+# Query: g333.t1
+# 0 hits found
+# Query: g352.t1
+# 0 hits found
+# Query: g367.t1
+# 0 hits found
+# Query: g368.t1
+# 0 hits found
+# Query: g541.t1
+# 0 hits found
+# Query: g543.t1
+# 0 hits found
+# Query: g797.t1
+# 0 hits found
+# Query: g822.t1
+# 0 hits found
+# Query: g946.t1
+# 0 hits found
+# Query: g950.t1
+# 0 hits found
+# Query: g966.t1
+# 0 hits found
+# Query: g966.t2
+# 0 hits found
+# Query: g985.t1
+# 0 hits found
+# Query: g997.t1
+# 0 hits found
+# Query: g1110.t1
+# 0 hits found
+# Query: g1112.t1
+# 0 hits found
+# Query: g1113.t1
+# 0 hits found
+# Query: g1117.t1
+# 2 hits found
+sp|Q04018|YM79_YEAST	19	278	50	319	TCSLPSKDTVVAVGGHGWAMSPDEPCIPGKYCPYACPPGQVMNQWDTAATSYTFPHSMNGGLHCQDDGSVAKPFPDRPLCVHGAGTVSVTNRAGSNVAFCQTVLPGNEAMLIPTTVDTGNTLPLAVPGPDYWAGTAAHYYVNPPGTSAKDGCVWGSKSRAVGNWAPYVVGMNMDKSGNTFITIGYNPKYIDDFGGKMPSFGLRVVCDDPDQCNGLECVIDPSEHGFNSASGPSSAKSLGAAHCIVTARKHAKAKIEVFGV	8.76e-99	296	sp|Q04018|YM79_YEAST Uncharacterized protein YMR244W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YMR244W PE=3 SV=1
+sp|O74851|ADG3_SCHPO	20	275	73	333	CSLPSKDTVVAVGGHGWAMSPDEPCIPGKYCPYACPPGQVMNQWDTAATSYTFPHSMNGGLHCQDDGSVAKPFPDRPLCVHGAGTVSVTNRAGSNVAFCQTVLPGNEAMLIPTTVDTGNTLPLAVPGPDYWAGTAAHYYVNPPGTSAKDGCVWGSKSRAVGNWAPYVVGMNMDKSGNTFITIGYNPKYIDDFGGKMPSFGLRVVCDDPDQCNGLECVIDPSEHGFNSASGPSSAKSLGAAHCIVTARKHAKAKIEV	2.87e-82	271	sp|O74851|ADG3_SCHPO Probable secreted beta-glucosidase adg3 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=adg3 PE=2 SV=1
+# Query: g1129.t1
+# 0 hits found
+# Query: g1137.t1
+# 0 hits found
+# Query: g1240.t1
+# 5 hits found
+sp|Q9UTA8|YL8A_SCHPO	14	160	7	139	ITSFNANHAEYDTFRPSFTPTLVDPFLAELCLATRNITTGVYTFHTDKTVVELACGTGKFTRNLVDHGWEDNLVVVEPSSGMLESFAKNFPHIKRQFQSSSYNIPLDDNSADAIVIAQGFHWFADLDSLKEMHRVLKPGGKLGLIWN	3.94e-20	91.3	sp|Q9UTA8|YL8A_SCHPO Uncharacterized methyltransferase-like C25B8.10 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC25B8.10 PE=3 SV=1
+sp|Q9UTA9|YL89_SCHPO	17	166	6	142	FNANHAEYDTFRPSFTPTLVDPFLAELCLATRNITTGVYTFHTDKTVVELACGTGKFTRNLVDHGWEDNLVVVEPSSGMLESFAKNFPHIKRQFQSSSYNIPLDDNSADAIVIAQGFHWFADLDSLKEMHRVLKPGGKLGLIWNFDYSSP	3.43e-19	88.6	sp|Q9UTA9|YL89_SCHPO Uncharacterized methyltransferase C25B8.09 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC25B8.09 PE=3 SV=1
+sp|P9WK00|Y3342_MYCTO	16	160	11	136	SFNANHAEYDTFRPSFTPTLVDPFLAELCLATRNITTGVYTFHTDKTVVELACGTGKFTRNLVDHGWEDNLVVVEPSSGMLESFAKNFPHIKRQFQSSSYNIPLDDNSADAIVIAQGFHWFADLDSLKEMHRVLKPGGKLGLIWN	5.33e-18	85.1	sp|P9WK00|Y3342_MYCTO Uncharacterized methyltransferase MT3445 OS=Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh) OX=83331 GN=MT3445 PE=3 SV=1
+sp|P9WK01|Y3342_MYCTU	16	160	11	136	SFNANHAEYDTFRPSFTPTLVDPFLAELCLATRNITTGVYTFHTDKTVVELACGTGKFTRNLVDHGWEDNLVVVEPSSGMLESFAKNFPHIKRQFQSSSYNIPLDDNSADAIVIAQGFHWFADLDSLKEMHRVLKPGGKLGLIWN	5.33e-18	85.1	sp|P9WK01|Y3342_MYCTU Uncharacterized methyltransferase Rv3342 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3342 PE=1 SV=1
+sp|P65349|Y3374_MYCBO	16	160	11	136	SFNANHAEYDTFRPSFTPTLVDPFLAELCLATRNITTGVYTFHTDKTVVELACGTGKFTRNLVDHGWEDNLVVVEPSSGMLESFAKNFPHIKRQFQSSSYNIPLDDNSADAIVIAQGFHWFADLDSLKEMHRVLKPGGKLGLIWN	5.33e-18	85.1	sp|P65349|Y3374_MYCBO Uncharacterized methyltransferase Mb3374 OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) OX=233413 GN=BQ2027_MB3374 PE=3 SV=1
+# Query: g1248.t1
+# 0 hits found
+# Query: g1253.t1
+# 0 hits found
+# Query: g1343.t1
+# 0 hits found
+# Query: g1363.t1
+# 0 hits found
+# Query: g1445.t1
+# 0 hits found
+# Query: g1454.t1
+# 0 hits found
+# Query: g1538.t1
+# 0 hits found
+# Query: g1541.t1
+# 0 hits found
+# Query: g1542.t1
+# 0 hits found
+# Query: g1550.t1
+# 0 hits found
+# Query: g2203.t1
+# 0 hits found
+# Query: g2217.t1
+# 0 hits found
+# Query: g2221.t1
+# 0 hits found
+# Query: g2298.t1
+# 0 hits found
+# Query: g2305.t1
+# 0 hits found
+# Query: g2310.t1
+# 0 hits found
+# Query: g2318.t1
+# 0 hits found
+# Query: g2396.t1
+# 0 hits found
+# Query: g2493.t1
+# 0 hits found
+# Query: g2494.t1
+# 0 hits found
+# Query: g2495.t1
+# 0 hits found
+# Query: g2567.t1
+# 0 hits found
+# Query: g2723.t1
+# 0 hits found
+# Query: g2732.t1
+# 0 hits found
+# Query: g2734.t1
+# 0 hits found
+# Query: g2741.t1
+# 0 hits found
+# Query: g2896.t1
+# 0 hits found
+# Query: g3362.t1
+# 0 hits found
+# Query: g3436.t1
+# 0 hits found
+# Query: g3441.t1
+# 0 hits found
+# Query: g3443.t1
+# 0 hits found
+# Query: g3551.t1
+# 0 hits found
+# Query: g3558.t1
+# 0 hits found
+# Query: g3676.t1
+# 0 hits found
+# Query: g3679.t1
+# 0 hits found
+# Query: g3740.t1
+# 0 hits found
+# Query: g3742.t1
+# 0 hits found
+# Query: g3792.t1
+# 0 hits found
+# Query: g3847.t1
+# 0 hits found
+# Query: g3855.t1
+# 0 hits found
+# Query: g3895.t1
+# 0 hits found
+# Query: g4108.t1
+# 0 hits found
+# Query: g4112.t1
+# 0 hits found
+# Query: g4156.t1
+# 0 hits found
+# Query: g4156.t2
+# 0 hits found
+# Query: g4163.t1
+# 0 hits found
+# Query: g4197.t1
+# 0 hits found
+# Query: g4198.t1
+# 0 hits found
+# Query: g4240.t1
+# 0 hits found
+# Query: g4242.t1
+# 0 hits found
+# Query: g4243.t1
+# 0 hits found
+# Query: g4281.t1
+# 0 hits found
+# Query: g4287.t1
+# 0 hits found
+# Query: g4320.t1
+# 0 hits found
+# Query: g4325.t1
+# 0 hits found
+# Query: g4327.t1
+# 0 hits found
+# Query: g4363.t1
+# 0 hits found
+# Query: g4390.t1
+# 0 hits found
+# Query: g4393.t1
+# 0 hits found
+# Query: g4427.t1
+# 0 hits found
+# Query: g4472.t1
+# 0 hits found
+# Query: g4663.t1
+# 0 hits found
+# Query: g4667.t1
+# 0 hits found
+# Query: g4674.t1
+# 0 hits found
+# Query: g4693.t1
+# 0 hits found
+# Query: g4698.t1
+# 0 hits found
+# Query: g4703.t1
+# 0 hits found
+# Query: g4726.t1
+# 0 hits found
+# Query: g4766.t1
+# 0 hits found
+# Query: g4770.t1
+# 0 hits found
+# Query: g4796.t1
+# 0 hits found
+# Query: g4817.t1
+# 0 hits found
+# Query: g4821.t1
+# 0 hits found
+# Query: g4850.t1
+# 0 hits found
+# Query: g4852.t1
+# 0 hits found
+# Query: g4853.t1
+# 0 hits found
+# Query: g4881.t1
+# 0 hits found
+# Query: g4921.t1
+# 0 hits found
+# Query: g4947.t1
+# 0 hits found
+# Query: g5170.t1
+# 0 hits found
+# Query: g5193.t1
+# 0 hits found
+# Query: g5194.t1
+# 0 hits found
+# Query: g5216.t1
+# 0 hits found
+# Query: g5222.t1
+# 0 hits found
+# Query: g5241.t1
+# 0 hits found
+# Query: g5247.t1
+# 0 hits found
+# Query: g5266.t1
+# 0 hits found
+# Query: g5312.t1
+# 0 hits found
+# Query: g5320.t1
+# 0 hits found
+# Query: g5342.t1
+# 0 hits found
+# Query: g5357.t1
+# 0 hits found
+# Query: g5366.t1
+# 1 hits found
+sp|Q03104|MSC1_YEAST	21	465	22	476	ASTDYGLSQWSTSDLKQFLADRKVELNDAWDNSKLVRLASEQAAKLEKGFVSAKHDFEKQLQPSRGNLEDYLSFDYLFGKKDDKGLGSIKEWVFDSWPTDALREFLALNRIKVGKTDTRLDLLKKAKSSFDKVAASHQGSSHYPGNWLYESWSLDDLKRVLEDYGVTVDAKAGKDDLVLKVKEYSYEATNAIYDTKDALFDSLDLFDKSIFDRHGQVKDEFFALWTYSQLREWLYLHGFIDTKPGVYVDDLDKNRLVQIATSYKQYFLDDVQTWLAYAEKKKASPWLLKEPGSILKDAKSKGKGDNLINDTFFVGVERWSKDRLREFLDTRKVPYSIFTTKHQLVDLVRKHKNDPIHAKTDAWILDDVSTESIKMWLAEQGSSIEGTRKDLVSAFYEQFENFGSSGRSNIDSQIRFYTPDVEEYRVYLKKHLSPQKFEKLTEDKI	4.27e-49	185	sp|Q03104|MSC1_YEAST Meiotic sister chromatid recombination protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MSC1 PE=1 SV=1
+# Query: g5512.t1
+# 0 hits found
+# Query: g5557.t1
+# 0 hits found
+# Query: g5559.t1
+# 0 hits found
+# Query: g5561.t1
+# 0 hits found
+# Query: g5583.t1
+# 0 hits found
+# Query: g5592.t1
+# 0 hits found
+# Query: g5606.t1
+# 0 hits found
+# Query: g5614.t1
+# 0 hits found
+# Query: g5661.t1
+# 1 hits found
+sp|Q24595|XPC_DROME	224	446	1051	1251	EDSEMRALYALAMNNYNVPRTFTAMKKSPNFIALSTLRYNEVVEPGTAPVKRVRLGDKKEPVYFKNALVVGKSARQWKFLARSIKPEEISRPIKTTAYFPRTVYNKRVFNMNVANNSPELNLTPLYSFSQTCPYIKETVLEVDGRRVLPRNKYGNMEVFRTSMVPEECVWLLLPRIESILLKSRFQYVPVVVGFSFVKQGQAVPVKDGVIILKEDEVAVKKHW	7.79e-09	62.0	sp|Q24595|XPC_DROME DNA repair protein complementing XP-C cells homolog OS=Drosophila melanogaster OX=7227 GN=Xpc PE=1 SV=2
+# Query: g5664.t1
+# 0 hits found
+# Query: g5682.t1
+# 0 hits found
+# Query: g5689.t1
+# 0 hits found
+# Query: g5730.t1
+# 0 hits found
+# Query: g5732.t1
+# 0 hits found
+# Query: g5849.t1
+# 0 hits found
+# Query: g5850.t1
+# 0 hits found
+# Query: g5854.t1
+# 0 hits found
+# Query: g5868.t1
+# 0 hits found
+# Query: g5871.t1
+# 0 hits found
+# Query: g5875.t1
+# 0 hits found
+# Query: g5910.t1
+# 0 hits found
+# Query: g5980.t1
+# 0 hits found
+# Query: g5981.t1
+# 0 hits found
+# Query: g5997.t1
+# 0 hits found
+# Query: g5998.t1
+# 0 hits found
+# Query: g6013.t1
+# 0 hits found
+# Query: g6018.t1
+# 0 hits found
+# Query: g6020.t1
+# 0 hits found
+# Query: g6158.t1
+# 0 hits found
+# Query: g6174.t1
+# 0 hits found
+# Query: g6177.t1
+# 0 hits found
+# Query: g6193.t1
+# 0 hits found
+# Query: g6195.t1
+# 0 hits found
+# Query: g6204.t1
+# 0 hits found
+# Query: g6224.t1
+# 0 hits found
+# Query: g6227.t1
+# 0 hits found
+# Query: g6228.t1
+# 0 hits found
+# Query: g6229.t1
+# 0 hits found
+# Query: g6244.t1
+# 0 hits found
+# Query: g6249.t1
+# 0 hits found
+# Query: g6253.t1
+# 0 hits found
+# Query: g6266.t1
+# 0 hits found
+# Query: g6293.t1
+# 0 hits found
+# Query: g6294.t1
+# 0 hits found
+# Query: g6300.t1
+# 0 hits found
+# Query: g6306.t1
+# 0 hits found
+# Query: g6307.t1
+# 0 hits found
+# Query: g8.t1
+# 0 hits found
+# Query: g23.t1
+# 0 hits found
+# Query: g31.t1
+# 0 hits found
+# Query: g33.t1
+# 0 hits found
+# Query: g36.t1
+# 0 hits found
+# Query: g51.t1
+# 0 hits found
+# Query: g68.t1
+# 0 hits found
+# Query: g98.t1
+# 0 hits found
+# Query: g117.t1
+# 0 hits found
+# Query: g127.t1
+# 0 hits found
+# Query: g135.t1
+# 0 hits found
+# Query: g149.t1
+# 0 hits found
+# Query: g278.t1
+# 1 hits found
+sp|Q59XM1|EXO84_CANAL	1	43	749	791	PIYEVKDRRHYAEFIGVMVPQLEALKDVGLNVDYIFESIVYVE	3.61e-12	61.2	sp|Q59XM1|EXO84_CANAL Exocyst complex component EXO84 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=EXO84 PE=3 SV=3
+# Query: g315.t1
+# 0 hits found
+# Query: g326.t1
+# 0 hits found
+# Query: g328.t1
+# 0 hits found
+# Query: g340.t1
+# 0 hits found
+# Query: g362.t1
+# 0 hits found
+# Query: g374.t1
+# 0 hits found
+# Query: g386.t1
+# 0 hits found
+# Query: g387.t1
+# 0 hits found
+# Query: g391.t1
+# 0 hits found
+# Query: g401.t1
+# 0 hits found
+# Query: g405.t1
+# 0 hits found
+# Query: g406.t1
+# 0 hits found
+# Query: g413.t1
+# 0 hits found
+# Query: g414.t1
+# 0 hits found
+# Query: g520.t1
+# 0 hits found
+# Query: g523.t1
+# 0 hits found
+# Query: g535.t1
+# 0 hits found
+# Query: g537.t1
+# 0 hits found
+# Query: g547.t1
+# 0 hits found
+# Query: g550.t1
+# 0 hits found
+# Query: g560.t1
+# 0 hits found
+# Query: g573.t1
+# 0 hits found
+# Query: g578.t1
+# 0 hits found
+# Query: g600.t1
+# 0 hits found
+# Query: g602.t1
+# 0 hits found
+# Query: g606.t1
+# 0 hits found
+# Query: g609.t1
+# 0 hits found
+# Query: g611.t1
+# 0 hits found
+# Query: g625.t1
+# 0 hits found
+# Query: g633.t1
+# 0 hits found
+# Query: g634.t1
+# 0 hits found
+# Query: g635.t1
+# 0 hits found
+# Query: g638.t1
+# 0 hits found
+# Query: g759.t1
+# 0 hits found
+# Query: g767.t1
+# 0 hits found
+# Query: g772.t1
+# 0 hits found
+# Query: g774.t1
+# 0 hits found
+# Query: g781.t1
+# 0 hits found
+# Query: g782.t1
+# 0 hits found
+# Query: g804.t1
+# 0 hits found
+# Query: g806.t1
+# 0 hits found
+# Query: g815.t1
+# 0 hits found
+# Query: g816.t1
+# 0 hits found
+# Query: g819.t1
+# 0 hits found
+# Query: g820.t1
+# 0 hits found
+# Query: g825.t1
+# 0 hits found
+# Query: g826.t1
+# 0 hits found
+# Query: g827.t1
+# 0 hits found
+# Query: g943.t1
+# 0 hits found
+# Query: g962.t1
+# 0 hits found
+# Query: g964.t1
+# 0 hits found
+# Query: g965.t1
+# 0 hits found
+# Query: g970.t1
+# 0 hits found
+# Query: g973.t1
+# 0 hits found
+# Query: g982.t1
+# 0 hits found
+# Query: g987.t1
+# 0 hits found
+# Query: g993.t1
+# 0 hits found
+# Query: g1003.t1
+# 0 hits found
+# Query: g1010.t1
+# 0 hits found
+# Query: g1013.t1
+# 0 hits found
+# Query: g1014.t1
+# 0 hits found
+# Query: g1015.t1
+# 0 hits found
+# Query: g1016.t1
+# 0 hits found
+# Query: g1017.t1
+# 0 hits found
