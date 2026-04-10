@@ -75,6 +75,8 @@ mediana = valores_kegg.median()
 # print(valores_kegg)
 print("Média:", media)
 print("Mediana:", mediana)
+print("Percentis do KEGG score para E-value <= 1e-10:")
+print(valores_kegg.quantile([0.1, 0.25, 0.5, 0.75, 0.9]))
 
 # --- Write outputs ---
 ## Saving my dataframe in a readably file
